@@ -2,7 +2,8 @@
 title: "Research"
 ---
 
-## Header
+## The Enigma of the Multiple Populations in Stellar Clusters
 
-Globular clusters (GCs), once thought to be the quintessential simple stellar populations (i.e., all stars within them have the same age and abundances within some small tolerance) are now known to host multiple populations within them, with sub-populations of stars showing different abundances (namely in He, C, N, O, Na, Al, Mg).
-The origin of this phenomenon is arguably the largest open question within the GC community at present.
+
+Globular clusters (GCs) have seen the earliest phases of galaxy formation and evolution. Thus they represent a fossil record of the formation history of the host system. The discovery that GCs do not fit within the traditional picture of being composed by stars with the same age and chemical abundances within some small tolerance has led to a growing interest in cluster studies. GCs host multiple populations (MPs) of stars with spreads in He and many other light elements (namely C, N, O, Na, Al, Mg). Several formation scenarios have been proposed to explain the chemical MPs, but none of them is able to entirely reproduce observations.
+The origin of this phenomenon is arguably the largest open question within the GC community at present and it is unlikely that most of the questions about GC formation and evolution will be answered without a new insight on MPs. 
