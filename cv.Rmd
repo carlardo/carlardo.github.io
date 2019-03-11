@@ -2,8 +2,71 @@
 title: "CV"
 ---
 
+Get a pdf copy of my CV here (last update Mar, 2019).
+
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
-## Header
 
-Say more about your CV here.
+
+
+###Personal infomation
+**Name:**	Carmela Lardo	<br/>
+**Current Address:**	EPFL Laboratory of Astrophysics,<br/>
+Observatory of Sauverny,<br/>
+Chemin des Maillettes 51,<br/>
+1290 Versoix, CH<br/>
+**email:**	carmela.lardo@epfl.ch<br/>
+**Nationality:**	Italian<br/>
+
+
+###Education
+**February 2013** -	Ph.D. in Astronomy,<br/>
+Alma Mater Studiorum-University of Bologna, Italy<br/>
+Thesis Advisor: Prof. B. Marano<br/> 
+Thesis title: *MULTIPLE STELLAR POPULATIONS IN GLOBULAR CLUSTERS WITH PHOTOMETRY AND LOW RESOLUTION
+SPECTROSCOPY* <br/>
+Supervisors: Dott. E. Pancino, Dr. M. Bellazzini<br/>
+
+**March 2009** - Master Degree *cum laude* in Astrophysics and Cosmology,<br/>
+Alma Mater Studiorum-University of Bologna, Italy<br/>
+Thesis Advisor: Prof. F. R. Ferraro<br/> 
+Thesis title: *DEFINITION OF STRATEGY AND PROCEDURES FOR GROUND-BASED DATA REDUCTION AND GAIA'S ABSOLUTE FLUX CALIBRATION*<br/>
+Supervisors: Dott. E. Pancino, Dr. G. Altavilla<br/>
+
+**March 2007** - Bachelor Degree *cum laude* in Astronomy,<br/>
+Alma Mater Studiorum-University of Bologna, Italy<br/>
+Thesis Advisor: Prof. M. Spurio<br/>
+Thesis title: *DISTRIBUTION OF THE ATMOSPHERIC MUONS  IN THE ANTARES NEUTRINO TELESCOPE*<br/>
+Supervisors: Dr. A. Margiotta<br/>
+
+###Employment
+
+**April 2017** - SNSF Ambizione Fellow,<br/>
+EPFL SB IPHYS LASTRO<br/>
+Observatoire de Sauverny<br/> 
+1290 Versoix, CH
+
+**August 2014 - March 2017** -	Postdoctoral Associate,<br/>
+Astrophysics Research Institute<br/> 
+Liverpool John Moores University<br/>
+146 Brownlow Hill<br/>
+Liverpool L3 5RF, UK<br/> 
+
+**January 2013 - July 2014** - Postdoctoral Associate,<br/>
+INAF- Bologna Observatory<br/>
+Via Camillo Ranzani 1<br/>
+40127 Bologna, IT<br/>
+
+
+
+### Fields of expertise
+Stellar populations<br/> 
+Star clusters <br/>
+Milky Way formation and evolution <br/>
+Stellar evolution <br/>
+Stellar abundances <br/>
+Observational astrophysics<br/>
+
+
+
+

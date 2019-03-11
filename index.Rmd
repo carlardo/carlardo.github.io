@@ -2,7 +2,7 @@
 title: "Welcome to my website!"
 ---
 
-<img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/antennae.pdf" style="width:55%; border:2px solid; margin-right: 20px" align="left">
 
 
 Stellar populations contain a wealth of information on the formation and evolution of galaxies. We are able to trace the evolution of galaxies back to their formation by measuring chemical abundances of individual stars and integrated light from unresolved stellar clusters. To understand how galaxies formed and evolve I followed different yet complementary lines of investigation using different tools (photometry, high- and low-resolution spectroscopy in the optical and near-infrared of resolved and unresolved stellar populations).
