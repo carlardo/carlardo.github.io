@@ -4,4 +4,5 @@ title: "Research"
 
 ## Header
 
-Say more about you here.
+Globular clusters (GCs), once thought to be the quintessential simple stellar populations (i.e., all stars within them have the same age and abundances within some small tolerance) are now known to host multiple populations within them, with sub-populations of stars showing different abundances (namely in He, C, N, O, Na, Al, Mg).
+The origin of this phenomenon is arguably the largest open question within the GC community at present.
