@@ -28,7 +28,6 @@ navbar:
       href: https://scholar.google.com/citations?user=g_YNf20AAAAJ&hl=en       # CHANGE HERE 
     
 output:
-    html_document:
-    theme: paper
-    highlight: textmate
-    fig_caption: yes
+  html_document:
+    theme: lumen
+    css: 'styles.css'

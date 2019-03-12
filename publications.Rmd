@@ -6,39 +6,24 @@ title: 'Publication List'
 
 An up-to-date list of my published papers can be found on ADS sorted by [year](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fl=title%2Cabstract%2Cbibcode%2Cauthor%2Ckeyword%2Cid%2Clinks_data%2Cproperty%2Cesources%2Cdata%2Ccitation_count%2C%5Bcitations%5D%2Cpub%2Caff%2Cemail%2Cvolume%2Cpubdate%2Cdoi%2Cdoctype&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=lardo&rows=25&sort=date%20desc%2C%20bibcode%20desc&start=0&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored&p_=0) or [citations](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=lardo&sort=citation_count%20desc%2C%20bibcode%20desc&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored&p_=0)
 
-
-You can click here for the [metrics report](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22lardo%22)&sort=date%20desc%2C%20bibcode%20desc&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored/metrics).
-=======
-[(Click here for metrics)](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22lardo%22)&sort=date%20desc%2C%20bibcode%20desc&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored/metrics).
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
+You can click here for a [metrics report](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22lardo%22)&sort=date%20desc%2C%20bibcode%20desc&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored/metrics).
 
 
 #### First author papers
 
 
-<<<<<<< HEAD
 1. <P>**Lardo, C.**, Salaris, M., Bastian, N., Mucciarelli, A., Dalessandro, E., &amp; 
 Cabrera-Ziri, I. 2018,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2018A%26A...616A.168L">Chemical 
-=======
-* <P>**Lardo, C.**, Salaris, M., Bastian, N., Mucciarelli, A., Dalessandro, E., &amp; 
-Cabrera-Ziri, I. 2018,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2018A%26A...616A.168L">Chemical 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 inhomogeneities amongst first population stars in globular clusters. 
 Evidence for He variations</A> 
 
 
-<<<<<<< HEAD
 1. <P>**Lardo, C.**, Cabrera-Ziri, I., Davies, B., &amp; Bastian, N. 2017,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2017MNRAS.468.2482L">Searching for globular 
-=======
-* <P>**Lardo, C.**, Cabrera-Ziri, I., Davies, B., &amp; Bastian, N. 2017,  Monthly 
-Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2017MNRAS.468.2482L">Searching for globular 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 cluster-like abundance patterns in young massive clusters - II. Results 
 from the Antennae galaxies</A> 
 
 
-<<<<<<< HEAD
 1. <P>**Lardo, C.**, Salaris, M., Savino, A., Donati, P., Stetson, P. B., &amp; Cassisi, 
 S. 2017,  *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2017MNRAS.466.3507L">Multiple 
 populations along the asymptotic giant branch of the globular cluster M4</A> 
@@ -59,34 +44,10 @@ Patrick, L. R., Bergemann, M., &amp; Plez, B. 2015,  *The Astrophysical Journal*
 Determination of NGC 4038 in the Antennae</A>
 
 1. <P>**Lardo, C.**, Pancino, E., Bellazzini, M., Bragaglia, A., Donati, P., 
-=======
-* <P>**Lardo, C.**, Salaris, M., Savino, A., Donati, P., Stetson, P. B., &amp; Cassisi, 
-S. 2017,  Monthly Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2017MNRAS.466.3507L">Multiple 
-populations along the asymptotic giant branch of the globular cluster M4</A> 
-
-
-* <P>**Lardo, C.**, Mucciarelli, A., &amp; Bastian, N. 2016,  Monthly Notices of the 
-Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2016MNRAS.457...51L">The iron dispersion of the globular cluster M2, 
-revised</A> 
-
-
-* <P>**Lardo, C.**, Battaglia, G., Pancino, E., Romano, D., de Boer, T. J. L., 
-Starkenburg, E., Tolstoy, E., Irwin, M. J., Jablonka, P., &amp; Tosi, M. 2016,  
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...585A..70L">Carbon and nitrogen abundances of individual 
-stars in the Sculptor dwarf spheroidal galaxy</A> 
-
-* <P>**Lardo, C.**, Davies, B., Kudritzki, R.-P., Gazak, J. Z., Evans, C. J., 
-Patrick, L. R., Bergemann, M., &amp; Plez, B. 2015,  The Astrophysical Journal 
-<A href="http://adsabs.harvard.edu/abs/2015ApJ...812..160L">Red Supergiants as Cosmic Abundance Probes: The First Direct Metallicity 
-Determination of NGC 4038 in the Antennae</A>
-
-* <P>**Lardo, C.**, Pancino, E., Bellazzini, M., Bragaglia, A., Donati, P., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Gilmore, G., Randich, S., Feltzing, S., Jeffries, R. D., Vallenari, A., 
 Alfaro, E. J., Allende Prieto, C., Flaccomio, E., Koposov, S. E., 
 Recio-Blanco, A., Bergemann, M., Carraro, G., Costado, M. T., Damiani, F., 
 Hourihane, A., Jofr&#233;, P., de Laverny, P., Marconi, G., Masseron, T., 
-<<<<<<< HEAD
 Morbidelli, L., Sacco, G. G., &amp; Worley, C. C. 2015,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A.115L">The Gaia-ESO Survey: Kinematics of seven Galactic globular 
 clusters</A> 
@@ -94,16 +55,6 @@ clusters</A>
 
 1. <P>**Lardo, C.**, Pancino, E., Mucciarelli, A., Bellazzini, M., Rejkuba, M., 
 Marinoni, S., Cocozza, G., Altavilla, G., &amp; Ragaini, S. 2013,  *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2013MNRAS.433.1941L">The double red giant branch in 
-=======
-Morbidelli, L., Sacco, G. G., &amp; Worley, C. C. 2015,  Astronomy and 
-Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A.115L">The Gaia-ESO Survey: Kinematics of seven Galactic globular 
-clusters</A> 
-
-
-* <P>**Lardo, C.**, Pancino, E., Mucciarelli, A., Bellazzini, M., Rejkuba, M., 
-Marinoni, S., Cocozza, G., Altavilla, G., &amp; Ragaini, S. 2013,  Monthly 
-Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2013MNRAS.433.1941L">The double red giant branch in 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 M2: C, N, Sr and Ba abundances</A> 
 
 
@@ -113,19 +64,13 @@ M2: C, N, Sr and Ba abundances</A>
 
 
 
-<<<<<<< HEAD
 1. <P>**Lardo, C.**, Pancino, E., Mucciarelli, A., &amp; Milone, A. P. 2012,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2012A%26A...548A.107L">Carbon and nitrogen abundances of stellar populations in 
-=======
-* <P>**Lardo, C.**, Pancino, E., Mucciarelli, A., &amp; Milone, A. P. 2012,  Astronomy 
-and Astrophysics <A href="http://adsabs.harvard.edu/abs/2012A%26A...548A.107L">Carbon and nitrogen abundances of stellar populations in 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 the globular cluster M 2</A> 
 
 
 
 
-<<<<<<< HEAD
 1. <P>**Lardo, C.**, Milone, A. P., Marino, A. F., Mucciarelli, A., Pancino, E., 
 Zoccali, M., Rejkuba, M., Carrera, R., &amp; Gonzalez, O. 2012,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2012A%26A...541A.141L">C and N abundances of main sequence and subgiant branch stars 
@@ -137,7 +82,7 @@ Dalessandro, E. 2011,  *Astronomy and Astrophysics* <A href="http://adsabs.harva
 multiple populations in globular clusters</A> 
 
 #### Second author papers
-1. <P>Cabrera-Ziri, I., **Lardo, C.**, Mucciarelli, A. 2019, *Monthly Notices of the Royal Astronomical Society (accepted)*  <A href="https://arxiv.org/abs/1903.03621">Constant light element abundances suggest that the extended P1 in NGC 2808 is not a consequence of CNO-cycle nucleosynthesis</A>
+1. <P>Cabrera-Ziri, I., **Lardo, C.**, Mucciarelli, A. 2019, *Monthly Notices of the Royal Astronomical Society (in press)*  <A href="https://arxiv.org/abs/1903.03621">Constant light element abundances suggest that the extended P1 in NGC 2808 is not a consequence of CNO-cycle nucleosynthesis</A>
 
 1. <P>Dalessandro, E., **Lardo, C.**, Cadelano, M., Saracino, S., Bastian, N., 
 Mucciarelli, A., Salaris, M., Stetson, P., &amp; Pancino, E. 2018,  
@@ -199,88 +144,22 @@ cluster Hodge 6 in the LMC</A>
 1. <P>Georgy, C., Charbonnel, C., Amard, L., Bastian, N., Ekstr&#246;m, S., Lardo, 
 C., Palacios, A., Eggenberger, P., Cabrera-Ziri, I., Gallet, F., &amp; Lagarde, 
 N. 2019,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2019A%26A...622A..66G">Disappearance of the extended main 
-=======
-* <P>**Lardo, C.**, Milone, A. P., Marino, A. F., Mucciarelli, A., Pancino, E., 
-Zoccali, M., Rejkuba, M., Carrera, R., &amp; Gonzalez, O. 2012,  Astronomy and 
-Astrophysics <A href="http://adsabs.harvard.edu/abs/2012A%26A...541A.141L">C and N abundances of main sequence and subgiant branch stars 
-in NGC 1851</A> 
-
-
-* <P>**Lardo, C.**, Bellazzini, M., Pancino, E., Carretta, E., Bragaglia, A., &amp; 
-Dalessandro, E. 2011,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2011A%26A...525A.114L">Mining SDSS in search of 
-multiple populations in globular clusters</A> 
-
-#### Second author papers
-
-* <P>Dalessandro, E., **Lardo, C.**, Cadelano, M., Saracino, S., Bastian, N., 
-Mucciarelli, A., Salaris, M., Stetson, P., &amp; Pancino, E. 2018,  Astronomy 
-and Astrophysics <A href="http://adsabs.harvard.edu/abs/2018A%26A...618A.131D">IC 4499 revised: Spectro-photometric evidence of small 
-light-element variations</A> 
-
-
-* <P>Bastian, Nate &amp; **Lardo, Carmela** 2018,  Annual Review of Astronomy and 
-Astrophysics <A href="http://adsabs.harvard.edu/abs/2018ARA%26A..56...83B">Multiple Stellar Populations in Globular Clusters</A> 
-
-
-* <P>Hollyhead, K., **Lardo, C.**, Kacharov, N., Bastian, N., Hilker, M., Rejkuba, 
-M., Koch, A., Grebel, E. K., &amp; Georgiev, I. 2018,  Monthly Notices of the 
-Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2018MNRAS.476..114H">Kron 3: a fourth intermediate age cluster in 
-the SMC with evidence of multiple populations</A> 
-
-
-* <P>Cabrera-Ziri, I., **Lardo, C.**, Davies, B., Bastian, N., Beccari, G., Larsen, 
-S. S., &amp; Hernandez, S. 2016,  Monthly Notices of the Royal Astronomical 
-Society <A href="http://adsabs.harvard.edu/abs/2016MNRAS.460.1869C">Searching for GC-like abundance patterns in young massive clusters</A> 
-
-
-* <P>Lapenna, E., **Lardo, C.**, Mucciarelli, A., Salaris, M., Ferraro, F. R., 
-Lanzoni, B., Massari, D., Stetson, P. B., Cassisi, S., &amp; Savino, A. 2016,  
-The Astrophysical Journal <A href="http://adsabs.harvard.edu/abs/2016ApJ...826L...1L">Lost and Found: Evidence of Second-generation 
-Stars Along the Asymptotic Giant Branch of the Globular Cluster NGC 6752</A> 
-
-
-
-
-####CO-AUTHORED PAPERS
-
-
-* <P>Hollyhead, K., Martocchia, S., **Lardo, C.**, Bastian, N., Kacharov, N., 
-Niederhofer, F., Cabrera-Ziri, I., Dalessandro, E., Mucciarelli, A., 
-Salaris, M., &amp; Usher, C. 2019,  Monthly Notices of the Royal Astronomical 
-Society <A href="http://adsabs.harvard.edu/abs/2019MNRAS.484.4718H">Spectroscopic detection of multiple populations in the &#732;2 Gyr old 
-cluster Hodge 6 in the LMC</A> 
-
-
-* <P>Georgy, C., Charbonnel, C., Amard, L., Bastian, N., Ekstr&#246;m, S., Lardo, 
-C., Palacios, A., Eggenberger, P., Cabrera-Ziri, I., Gallet, F., &amp; Lagarde, 
-N. 2019,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2019A%26A...622A..66G">Disappearance of the extended main 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 sequence turn-off in intermediate age clusters as a consequence of magnetic 
 braking</A> 
 
 
-<<<<<<< HEAD
 1. <P>Mucciarelli, A., Lapenna, E., **Lardo, C.**, Bonifacio, P., Ferraro, F. R., &amp; 
 Lanzoni, B. 2019,  *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2019ApJ...870..124M">Confirming the Presence of 
-=======
-* <P>Mucciarelli, A., Lapenna, E., **Lardo, C.**, Bonifacio, P., Ferraro, F. R., &amp; 
-Lanzoni, B. 2019,  The Astrophysical Journal <A href="http://adsabs.harvard.edu/abs/2019ApJ...870..124M">Confirming the Presence of 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Second-population Stars and the Iron Discrepancy along the AGB of the 
 Globular Cluster NGC 6752</A> 
 
 
-<<<<<<< HEAD
 1. <P>Starkenburg, Else, Aguado, David S., Bonifacio, Piercarlo, Caffau, 
-=======
-* <P>Starkenburg, Else, Aguado, David S., Bonifacio, Piercarlo, Caffau, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Elisabetta, Jablonka, Pascale, Lardo, Carmela, Martin, Nicolas, 
 S&#225;nchez-Janssen, Rub&#233;n, Sestito, Federico, Venn, Kim A., Youakim, Kris, 
 Allende Prieto, Carlos, Arentsen, Anke, Gentile, Marc, Gonz&#225;lez Hern&#225;ndez, 
 Jonay I., Kielty, Collin, Koppelman, Helmer H., Longeard, Nicolas, Tolstoy, 
 Eline, Carlberg, Raymond G., C&#244;t&#233;, Patrick, Fouesneau, Morgan, Hill, 
-<<<<<<< HEAD
 Vanessa, McConnachie, Alan W., &amp; Navarro, Julio F. 2018,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2018MNRAS.481.3838S">The Pristine survey IV: approaching the 
 Galactic metallicity floor with the discovery of an ultra-metal-poor star</A> 
@@ -291,101 +170,52 @@ N., Usher, C., Cabrera-Ziri, I., **Lardo, C.**, Cassisi, S., Geisler, D.,
 Hilker, M., Hollyhead, K., Kozhurina-Platais, V., Larsen, S., Mackey, D., 
 Mucciarelli, A., Platais, I., &amp; Salaris, M. 2018,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2018MNRAS.477.4696M">The search for multiple populations in 
-=======
-Vanessa, McConnachie, Alan W., &amp; Navarro, Julio F. 2018,  Monthly Notices 
-of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2018MNRAS.481.3838S">The Pristine survey IV: approaching the 
-Galactic metallicity floor with the discovery of an ultra-metal-poor star</A> 
-
-
-* <P>Martocchia, S., Niederhofer, F., Dalessandro, E., Bastian, N., Kacharov, 
-N., Usher, C., Cabrera-Ziri, I., **Lardo, C.**, Cassisi, S., Geisler, D., 
-Hilker, M., Hollyhead, K., Kozhurina-Platais, V., Larsen, S., Mackey, D., 
-Mucciarelli, A., Platais, I., &amp; Salaris, M. 2018,  Monthly Notices of the 
-Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2018MNRAS.477.4696M">The search for multiple populations in 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Magellanic Cloud clusters - IV. Coeval multiple stellar populations in the 
 young star cluster NGC 1978</A> 
 
 
-<<<<<<< HEAD
 1. <P>Martocchia, S., Cabrera-Ziri, I., **Lardo, C.**, Dalessandro, E., Bastian, N., 
 Kozhurina-Platais, V., Usher, C., Niederhofer, F., Cordero, M., Geisler, 
 D., Hollyhead, K., Kacharov, N., Larsen, S., Li, C., Mackey, D., Hilker, 
 M., Mucciarelli, A., Platais, I., &amp; Salaris, M. 2018,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2018MNRAS.473.2688M">Age as a major factor in the onset of 
-=======
-* <P>Martocchia, S., Cabrera-Ziri, I., **Lardo, C.**, Dalessandro, E., Bastian, N., 
-Kozhurina-Platais, V., Usher, C., Niederhofer, F., Cordero, M., Geisler, 
-D., Hollyhead, K., Kacharov, N., Larsen, S., Li, C., Mackey, D., Hilker, 
-M., Mucciarelli, A., Platais, I., &amp; Salaris, M. 2018,  Monthly Notices of 
-the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2018MNRAS.473.2688M">Age as a major factor in the onset of 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 multiple populations in stellar clusters</A> 
 
 
 
-<<<<<<< HEAD
 1. <P>Davies, Ben, Kudritzki, Rolf-Peter, **Lardo, Carmela**, Bergemann, Maria, 
 Beasor, Emma, Plez, Bertrand, Evans, Chris, Bastian, Nate, &amp; Patrick, Lee 
 R. 2017,  *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">Red Supergiants as Cosmic Abundance 
-=======
-* <P>Davies, Ben, Kudritzki, Rolf-Peter, **Lardo, Carmela**, Bergemann, Maria, 
-Beasor, Emma, Plez, Bertrand, Evans, Chris, Bastian, Nate, &amp; Patrick, Lee 
-R. 2017,  The Astrophysical Journal <A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">Red Supergiants as Cosmic Abundance 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Probes: Massive Star Clusters in M83 and the Mass-Metallicity Relation of 
 Nearby Galaxies</A> 
 
 
 
-<<<<<<< HEAD
 1. <P>Martocchia, S., Bastian, N., Usher, C., Kozhurina-Platais, V., 
 Niederhofer, F., Cabrera-Ziri, I., Dalessandro, E., Hollyhead, K., 
 Kacharov, N., **Lardo, C.**, Larsen, S., Mucciarelli, A., Platais, I., Salaris, 
 M., Cordero, M., Geisler, D., Hilker, M., Li, C., &amp; Mackey, D. 2017,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2017MNRAS.468.3150M">The search for multiple 
-=======
-* <P>Martocchia, S., Bastian, N., Usher, C., Kozhurina-Platais, V., 
-Niederhofer, F., Cabrera-Ziri, I., Dalessandro, E., Hollyhead, K., 
-Kacharov, N., **Lardo, C.**, Larsen, S., Mucciarelli, A., Platais, I., Salaris, 
-M., Cordero, M., Geisler, D., Hilker, M., Li, C., &amp; Mackey, D. 2017,  
-Monthly Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2017MNRAS.468.3150M">The search for multiple 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 populations in Magellanic Cloud Clusters - III. No evidence for multiple 
 populations in the SMC cluster NGC 419</A> 
 
 
-<<<<<<< HEAD
 1. <P>Massari, D., Mucciarelli, A., Dalessandro, E., Bellazzini, M., Cassisi, 
 S., Fiorentino, G., Ibata, R. A., **Lardo, C.**, &amp; Salaris, M. 2017,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2017MNRAS.468.1249M">The chemical composition of the 
-=======
-* <P>Massari, D., Mucciarelli, A., Dalessandro, E., Bellazzini, M., Cassisi, 
-S., Fiorentino, G., Ibata, R. A., **Lardo, C.**, &amp; Salaris, M. 2017,  Monthly 
-Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2017MNRAS.468.1249M">The chemical composition of the 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 low-mass Galactic globular cluster NGC 6362</A> 
 
 
 
-<<<<<<< HEAD
 1. <P>Niederhofer, F., Bastian, N., Kozhurina-Platais, V., Larsen, S., 
 Hollyhead, K., **Lardo, C.**, Cabrera-Ziri, I., Kacharov, N., Platais, I., 
 Salaris, M., Cordero, M., Dalessandro, E., Geisler, D., Hilker, M., Li, C., 
 Mackey, D., &amp; Mucciarelli, A. 2017,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2017MNRAS.465.4159N">The search for multiple populations in Magellanic 
-=======
-* <P>Niederhofer, F., Bastian, N., Kozhurina-Platais, V., Larsen, S., 
-Hollyhead, K., **Lardo, C.**, Cabrera-Ziri, I., Kacharov, N., Platais, I., 
-Salaris, M., Cordero, M., Dalessandro, E., Geisler, D., Hilker, M., Li, C., 
-Mackey, D., &amp; Mucciarelli, A. 2017,  Monthly Notices of the Royal 
-Astronomical Society <A href="http://adsabs.harvard.edu/abs/2017MNRAS.465.4159N">The search for multiple populations in Magellanic 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Cloud clusters - II. The detection of multiple populations in three 
 intermediate-age SMC clusters</A> 
 
 
-<<<<<<< HEAD
 1. <P>Hollyhead, K., Kacharov, N., **Lardo, C.**, Bastian, N., Hilker, M., Rejkuba, 
 M., Koch, A., Grebel, E. K., &amp; Georgiev, I. 2017,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2017MNRAS.465L..39H">Evidence for multiple populations in the 
@@ -397,52 +227,27 @@ M., Dalessandro, E., Mucciarelli, A., Cabrera-Ziri, I., Cordero, M.,
 Geisler, D., Hilker, M., Hollyhead, K., Kacharov, N., **Lardo, C.**, Li, C., 
 Mackey, D., &amp; Platais, I. 2017,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2017MNRAS.464...94N">The search for multiple populations in Magellanic Cloud clusters - 
-=======
-* <P>Hollyhead, K., Kacharov, N., **Lardo, C.**, Bastian, N., Hilker, M., Rejkuba, 
-M., Koch, A., Grebel, E. K., &amp; Georgiev, I. 2017,  Monthly Notices of the 
-Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2017MNRAS.465L..39H">Evidence for multiple populations in the 
-intermediate-age cluster Lindsay 1 in the SMC</A> 
-
-
-* <P>Niederhofer, F., Bastian, N., Kozhurina-Platais, V., Larsen, S., Salaris, 
-M., Dalessandro, E., Mucciarelli, A., Cabrera-Ziri, I., Cordero, M., 
-Geisler, D., Hilker, M., Hollyhead, K., Kacharov, N., **Lardo, C.**, Li, C., 
-Mackey, D., &amp; Platais, I. 2017,  Monthly Notices of the Royal Astronomical 
-Society <A href="http://adsabs.harvard.edu/abs/2017MNRAS.464...94N">The search for multiple populations in Magellanic Cloud clusters - 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 I. Two stellar populations in the Small Magellanic Cloud globular cluster 
 NGC 121</A> 
 
 
 
 
-<<<<<<< HEAD
 1. <P>Mucciarelli, Alessio, Dalessandro, Emanuele, Massari, Davide, Bellazzini, 
 Michele, Ferraro, Francesco R., Lanzoni, Barbara, **Lardo, Carmela**, Salaris, 
 Maurizio, &amp; Cassisi, Santi 2016,  *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2016ApJ...824...73M">NGC 6362: The 
-=======
-* <P>Mucciarelli, Alessio, Dalessandro, Emanuele, Massari, Davide, Bellazzini, 
-Michele, Ferraro, Francesco R., Lanzoni, Barbara, **Lardo, Carmela**, Salaris, 
-Maurizio, &amp; Cassisi, Santi 2016,  The Astrophysical Journal <A href="http://adsabs.harvard.edu/abs/2016ApJ...824...73M">NGC 6362: The 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Least Massive Globular Cluster with Chemically Distinct Multiple 
 Populations</A> 
 
 
 
-<<<<<<< HEAD
 1. <P>Mucciarelli, A., Lapenna, E., Massari, D., Pancino, E., Stetson, P. B., 
 Ferraro, F. R., Lanzoni, B., &amp; **Lardo, C.** 2015,  *The Astrophysical Journal* 
-=======
-* <P>Mucciarelli, A., Lapenna, E., Massari, D., Pancino, E., Stetson, P. B., 
-Ferraro, F. R., Lanzoni, B., &amp; **Lardo, C.** 2015,  The Astrophysical Journal 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 <A href="http://adsabs.harvard.edu/abs/2015ApJ...809..128M">A Chemical Trompe-L'oeil: No Iron Spread in the Globular Cluster M22</A> 
 
 
 
 
-<<<<<<< HEAD
 1. <P>Beccari, G., Bellazzini, M., **Lardo, C.**, Bragaglia, A., Carretta, E., 
 Dalessandro, E., Mucciarelli, A., &amp; Pancino, E. 2013,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2013MNRAS.431.1995B">Evidence for multiple populations in the 
@@ -450,24 +255,11 @@ massive globular cluster NGC 2419 from deep uVI LBT photometry</A>
 
 
 1. <P>Pancino, E., Altavilla, G., Marinoni, S., Cocozza, G., Carrasco, J. M., 
-=======
-* <P>Beccari, G., Bellazzini, M., **Lardo, C.**, Bragaglia, A., Carretta, E., 
-Dalessandro, E., Mucciarelli, A., &amp; Pancino, E. 2013,  Monthly Notices of 
-the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2013MNRAS.431.1995B">Evidence for multiple populations in the 
-massive globular cluster NGC 2419 from deep uVI LBT photometry</A> 
-
-
-* <P>Pancino, E., Altavilla, G., Marinoni, S., Cocozza, G., Carrasco, J. M., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Bellazzini, M., Bragaglia, A., Federici, L., Rossetti, E., Cacciari, C., 
 Balaguer N&#250;&#241;ez, L., Castro, A., Figueras, F., Fusi Pecci, F., Galleti, S., 
 Gebran, M., Jordi, C., **Lardo, C.**, Masana, E., Mongui&#243;, M., Montegriffo, P., 
 Ragaini, S., Schuster, W., Trager, S., Vilardell, F., &amp; Voss, H. 2012,  
-<<<<<<< HEAD
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2012MNRAS.426.1767P">The Gaia 
-=======
-Monthly Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2012MNRAS.426.1767P">The Gaia 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 spectrophotometric standard stars survey - I. Preliminary results</A> 
 
 
@@ -478,11 +270,7 @@ spectrophotometric standard stars survey - I. Preliminary results</A>
 ### Publications resulting from my participation to Gaia-ESO
 
 
-<<<<<<< HEAD
 1.  <P>Smiljanic, R., Franciosini, E., Bragaglia, A., Tautvai&#353;ien&#279;, G., Fu, X., 
-=======
-*  <P>Smiljanic, R., Franciosini, E., Bragaglia, A., Tautvai&#353;ien&#279;, G., Fu, X., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Pancino, E., Adibekyan, V., Sousa, S. G., Randich, S., Montalb&#225;n, J., 
 Pasquini, L., Magrini, L., Drazdauskas, A., Garc&#237;a, R. A., Mathur, S., 
 Mosser, B., R&#233;gulo, C., de Assis Peralta, R., Hekker, S., Feuillet, D., 
@@ -490,98 +278,55 @@ Valentini, M., Morel, T., Martell, S., Gilmore, G., Feltzing, S.,
 Vallenari, A., Bensby, T., Korn, A. J., Lanzafame, A. C., Recio-Blanco, A., 
 Bayo, A., Carraro, G., Costado, M. T., Frasca, A., Jofr&#233;, P., **Lardo, C.**, de 
 Laverny, P., Lind, K., Masseron, T., Monaco, L., Morbidelli, L., 
-<<<<<<< HEAD
 Prisinzano, L., Sbordone, L., &amp; Zaggia, S. 2018,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2018A%26A...617A...4S">The Gaia-ESO Survey: properties of newly discovered Li-rich 
 giants</A> 
 
 
 1.  <P>Franchini, Mariagrazia, Morossi, Carlo, Di Marcantonio, Paolo, Chavez, 
-=======
-Prisinzano, L., Sbordone, L., &amp; Zaggia, S. 2018,  Astronomy and 
-Astrophysics <A href="http://adsabs.harvard.edu/abs/2018A%26A...617A...4S">The Gaia-ESO Survey: properties of newly discovered Li-rich 
-giants</A> 
-
-
-*  <P>Franchini, Mariagrazia, Morossi, Carlo, Di Marcantonio, Paolo, Chavez, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Miguel, Gilmore, Gerry, Randich, Sofia, Flaccomio, Ettore, Koposov, Sergey 
 E., Korn, Andreas J., Bayo, Amelia, Carraro, Giovanni, Casey, Andy, 
 Franciosini, Elena, Hourihane, Anna, Jofr&#233;, Paula, Lardo, Carmela, Lewis, 
 James, Magrini, Laura, Morbidelli, Lorenzo, Sacco, G. G., Worley, Clare, &amp; 
-<<<<<<< HEAD
 Zwitter, Tomaz 2018,  *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2018ApJ...862..146F">Gaia-ESO Survey: 
 INTRIGOSS&#8212;A New Library of High-resolution Synthetic Spectra</A> 
 
 
 1.  <P>Bertelli Motta, C., Pasquali, A., Richer, J., Michaud, G., Salaris, M., 
-=======
-Zwitter, Tomaz 2018,  The Astrophysical Journal <A href="http://adsabs.harvard.edu/abs/2018ApJ...862..146F">Gaia-ESO Survey: 
-INTRIGOSS&#8212;A New Library of High-resolution Synthetic Spectra</A> 
-
-
-*  <P>Bertelli Motta, C., Pasquali, A., Richer, J., Michaud, G., Salaris, M., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Bragaglia, A., Magrini, L., Randich, S., Grebel, E. K., Adibekyan, V., 
 Blanco-Cuaresma, S., Drazdauskas, A., Fu, X., Martell, S., Tautvai&#353;ien&#279;, 
 G., Gilmore, G., Alfaro, E. J., Bensby, T., Flaccomio, E., Koposov, S. E., 
 Korn, A. J., Lanzafame, A. C., Smiljanic, R., Bayo, A., Carraro, G., Casey, 
 A. R., Costado, M. T., Damiani, F., Franciosini, E., Heiter, U., Hourihane, 
 A., Jofr&#233;, P., **Lardo, C.**, Lewis, J., Monaco, L., Morbidelli, L., Sacco, G. 
-<<<<<<< HEAD
 G., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 2018,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2018MNRAS.478..425B">The Gaia-ESO Survey: evidence of atomic 
 diffusion in M67?</A> 
 
 
 1.  <P>Bravi, L., Zari, E., Sacco, G. G., Randich, S., Jeffries, R. D., Jackson, 
-=======
-G., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 2018,  Monthly Notices of the 
-Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2018MNRAS.478..425B">The Gaia-ESO Survey: evidence of atomic 
-diffusion in M67?</A> 
-
-
-*  <P>Bravi, L., Zari, E., Sacco, G. G., Randich, S., Jeffries, R. D., Jackson, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 R. J., Franciosini, E., Moraux, E., L&#243;pez-Santiago, J., Pancino, E., Spina, 
 L., Wright, N. J., Jim&#233;nez-Esteban, F. M., Klutsch, A., Roccatagliata, V., 
 Gilmore, G., Bragaglia, A., Flaccomio, E., Francois, P., Koposov, S. E., 
 Bayo, A., Carraro, G., Costado, M. T., Damiani, F., Frasca, A., Hourihane, 
 A., Jofr&#233;, P., **Lardo, C.**, Lewis, J., Magrini, L., Morbidelli, L., 
-<<<<<<< HEAD
 Prisinzano, L., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 2018,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2018A%26A...615A..37B">The Gaia-ESO Survey: a kinematical and dynamical study of 
 four young open clusters</A> 
 
 
 1.  <P>Fu, X., Romano, D., Bragaglia, A., Mucciarelli, A., Lind, K., Delgado 
-=======
-Prisinzano, L., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 2018,  Astronomy 
-and Astrophysics <A href="http://adsabs.harvard.edu/abs/2018A%26A...615A..37B">The Gaia-ESO Survey: a kinematical and dynamical study of 
-four young open clusters</A> 
-
-
-*  <P>Fu, X., Romano, D., Bragaglia, A., Mucciarelli, A., Lind, K., Delgado 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Mena, E., Sousa, S. G., Randich, S., Bressan, A., Sbordone, L., Martell, 
 S., Korn, A. J., Abia, C., Smiljanic, R., Jofr&#233;, P., Pancino, E., 
 Tautvai&#353;ien&#279;, G., Tang, B., Magrini, L., Lanzafame, A. C., Carraro, G., 
 Bensby, T., Damiani, F., Alfaro, E. J., Flaccomio, E., Morbidelli, L., 
 Zaggia, S., **Lardo, C.**, Monaco, L., Frasca, A., Donati, P., Drazdauskas, A., 
-<<<<<<< HEAD
 Chorniy, Y., Bayo, A., &amp; Kordopatis, G. 2018,  *Astronomy and Astrophysics* 
-=======
-Chorniy, Y., Bayo, A., &amp; Kordopatis, G. 2018,  Astronomy and Astrophysics 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 <A href="http://adsabs.harvard.edu/abs/2018A%26A...610A..38F">The Gaia-ESO Survey: Lithium enrichment histories of the Galactic thick 
 and thin disc</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Thompson, B. B., Few, C. G., Bergemann, M., Gibson, B. K., MacFarlane, B. 
-=======
-*  <P>Thompson, B. B., Few, C. G., Bergemann, M., Gibson, B. K., MacFarlane, B. 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 A., Serenelli, A., Gilmore, G., Randich, S., Vallenari, A., Alfaro, E. J., 
 Bensby, T., Francois, P., Korn, A. J., Bayo, A., Carraro, G., Casey, A. R., 
 Costado, M. T., Donati, P., Franciosini, E., Frasca, A., Hourihane, A., 
@@ -589,25 +334,16 @@ Jofr&#233;, P., Hill, V., Heiter, U., Koposov, S. E., Lanzafame, A., **Lardo, C.
 de Laverny, P., Lewis, J., Magrini, L., Marconi, G., Masseron, T., Monaco, 
 L., Morbidelli, L., Pancino, E., Prisinzano, L., Recio-Blanco, A., Sacco, 
 G., Sousa, S. G., Tautvai&#353;ien&#279;, G., Worley, C. C., &amp; Zaggia, S. 2018,  
-<<<<<<< HEAD
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2018MNRAS.473..185T">The Gaia-ESO Survey: 
 matching chemodynamical simulations to observations of the Milky Way</A> 
 
 
 1.  <P>Hayden, M. R., Recio-Blanco, A., de Laverny, P., Mikolaitis, S., Guiglion, 
-=======
-Monthly Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2018MNRAS.473..185T">The Gaia-ESO Survey: 
-matching chemodynamical simulations to observations of the Milky Way</A> 
-
-
-*  <P>Hayden, M. R., Recio-Blanco, A., de Laverny, P., Mikolaitis, S., Guiglion, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 G., Hill, V., Gilmore, G., Randich, S., Bayo, A., Bensby, T., Bergemann, 
 M., Bragaglia, A., Casey, A., Costado, M., Feltzing, S., Franciosini, E., 
 Hourihane, A., Jofre, P., Koposov, S., Kordopatis, G., Lanzafame, A., 
 **Lardo, C.**, Lewis, J., Lind, K., Magrini, L., Monaco, L., Morbidelli, L., 
 Pancino, E., Sacco, G., Stonkute, E., Worley, C. C., &amp; Zwitter, T. 2018,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2018A%26A...609A..79H">The Gaia-ESO Survey: Churning through the Milky 
 Way</A> 
 
@@ -629,29 +365,6 @@ and neutral gas in the Lagoon nebula (M 8)</A>
 
 
 1.  <P>Duffau, S., Caffau, E., Sbordone, L., Bonifacio, P., Andrievsky, S., 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2018A%26A...609A..79H">The Gaia-ESO Survey: Churning through the Milky 
-Way</A> 
-
-
-*  <P>Jeffreson, S. M. R., Sanders, J. L., Evans, N. W., Williams, A. A., 
-Gilmore, G. F., Bayo, A., Bragaglia, A., Casey, A. R., Flaccomio, E., 
-Franciosini, E., Hourihane, A., Jackson, R. J., Jeffries, R. D., Jofr&#233;, P., 
-Koposov, S., **Lardo, C.**, Lewis, J., Magrini, L., Morbidelli, L., Pancino, 
-E., Randich, S., Sacco, G. G., Worley, C. C., &amp; Zaggia, S. 2017,  Monthly 
-Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2017MNRAS.469.4740J">The Gaia-ESO Survey: dynamical 
-models of flattened, rotating globular clusters</A> 
-
-
-*  <P>Damiani, F., Bonito, R., Prisinzano, L., Zwitter, T., Bayo, A., Kalari, 
-V., Jim&#233;nez-Esteban, F. M., Costado, M. T., Jofr&#233;, P., Randich, S., 
-Flaccomio, E., Lanzafame, A. C., **Lardo, C.**, Morbidelli, L., &amp; Zaggia, S. 
-2017,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2017A%26A...604A.135D">The Gaia-ESO Survey: dynamics of ionized 
-and neutral gas in the Lagoon nebula (M 8)</A> 
-
-
-*  <P>Duffau, S., Caffau, E., Sbordone, L., Bonifacio, P., Andrievsky, S., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Korotin, S., Babusiaux, C., Salvadori, S., Monaco, L., Fran&#231;ois, P., 
 Sk&#250;lad&#243;ttir, &#193;., Bragaglia, A., Donati, P., Spina, L., Gallagher, A. J., 
 Ludwig, H.-G., Christlieb, N., Hansen, C. J., Mott, A., Steffen, M., 
@@ -661,38 +374,22 @@ Vallenari, A., Hawkins, K., Gilmore, G., Randich, S., Feltzing, S., Bensby,
 T., Flaccomio, E., Smiljanic, R., Bayo, A., Carraro, G., Casey, A. R., 
 Costado, M. T., Damiani, F., Franciosini, E., Hourihane, A., Jofr&#233;, P., 
 **Lardo, C.**, Lewis, J., Morbidelli, L., Sousa, S. G., &amp; Worley, C. C. 2017,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2017A%26A...604A.128D">The Gaia-ESO Survey: Galactic evolution of 
 sulphur and zinc</A> 
 
 
 1.  <P>Damiani, F., Klutsch, A., Jeffries, R. D., Randich, S., Prisinzano, L., 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2017A%26A...604A.128D">The Gaia-ESO Survey: Galactic evolution of 
-sulphur and zinc</A> 
-
-
-*  <P>Damiani, F., Klutsch, A., Jeffries, R. D., Randich, S., Prisinzano, L., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Ma&#237;z Apell&#225;niz, J., Micela, G., Kalari, V., Frasca, A., Zwitter, T., 
 Bonito, R., Gilmore, G., Flaccomio, E., Francois, P., Koposov, S., 
 Lanzafame, A. C., Sacco, G. G., Bayo, A., Carraro, G., Casey, A. R., 
 Alfaro, E. J., Costado, M. T., Donati, P., Franciosini, E., Hourihane, A., 
 Jofr&#233;, P., **Lardo, C.**, Lewis, J., Magrini, L., Monaco, L., Morbidelli, L., 
-<<<<<<< HEAD
 Worley, C. C., Vink, J. S., &amp; Zaggia, S. 2017,  *Astronomy and Astrophysics* 
-=======
-Worley, C. C., Vink, J. S., &amp; Zaggia, S. 2017,  Astronomy and Astrophysics 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 <A href="http://adsabs.harvard.edu/abs/2017A%26A...603A..81D">Gaia-ESO Survey: Global properties of clusters Trumpler 14 and 16 in the 
 Carina nebula</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Magrini, L., Randich, S., Kordopatis, G., Prantzos, N., Romano, D., 
-=======
-*  <P>Magrini, L., Randich, S., Kordopatis, G., Prantzos, N., Romano, D., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Chieffi, A., Limongi, M., Fran&#231;ois, P., Pancino, E., Friel, E., Bragaglia, 
 A., Tautvai&#353;ien&#279;, G., Spina, L., Overbeek, J., Cantat-Gaudin, T., Donati, 
 P., Vallenari, A., Sordo, R., Jim&#233;nez-Esteban, F. M., Tang, B., 
@@ -701,7 +398,6 @@ S., Alfaro, E., Bensby, T., Flaccomio, E., Koposov, S., Lanzafame, A.,
 Smiljanic, R., Bayo, A., Carraro, G., Casey, A. R., Costado, M. T., 
 Damiani, F., Franciosini, E., Hourihane, A., **Lardo, C.**, Lewis, J., Monaco, 
 L., Morbidelli, L., Sacco, G., Sbordone, L., Worley, C. C., &amp; Zaggia, S. 
-<<<<<<< HEAD
 2017,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2017A%26A...603A...2M">The Gaia-ESO Survey: radial distribution 
 of abundances in the Galactic disc from open clusters and young-field stars</A> 
 
@@ -715,58 +411,27 @@ element stars in the Galactic bulge</A>
 
 
 1.  <P>Rojas-Arriagada, A., Recio-Blanco, A., de Laverny, P., Mikolaitis, &#352;., 
-=======
-2017,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2017A%26A...603A...2M">The Gaia-ESO Survey: radial distribution 
-of abundances in the Galactic disc from open clusters and young-field stars</A> 
-
-
-*  <P>Recio-Blanco, A., Rojas-Arriagada, A., de Laverny, P., Mikolaitis, S., 
-Hill, V., Zoccali, M., Fern&#225;ndez-Trincado, J. G., Robin, A. C., Babusiaux, 
-C., Gilmore, G., Randich, S., Alfaro, E., Allende Prieto, C., Bragaglia, 
-A., Carraro, G., Jofr&#233;, P., **Lardo, C.**, Monaco, L., Morbidelli, L., &amp; 
-Zaggia, S. 2017,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2017A%26A...602L..14R">The Gaia-ESO Survey: Low-&#945; 
-element stars in the Galactic bulge</A> 
-
-
-*  <P>Rojas-Arriagada, A., Recio-Blanco, A., de Laverny, P., Mikolaitis, &#352;., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Matteucci, F., Spitoni, E., Schultheis, M., Hayden, M., Hill, V., Zoccali, 
 M., Minniti, D., Gonzalez, O. A., Gilmore, G., Randich, S., Feltzing, S., 
 Alfaro, E. J., Babusiaux, C., Bensby, T., Bragaglia, A., Flaccomio, E., 
 Koposov, S. E., Pancino, E., Bayo, A., Carraro, G., Casey, A. R., Costado, 
 M. T., Damiani, F., Donati, P., Franciosini, E., Hourihane, A., Jofr&#233;, P., 
 **Lardo, C.**, Lewis, J., Lind, K., Magrini, L., Morbidelli, L., Sacco, G. G., 
-<<<<<<< HEAD
 Worley, C. C., &amp; Zaggia, S. 2017,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2017A%26A...601A.140R">The Gaia-ESO 
-=======
-Worley, C. C., &amp; Zaggia, S. 2017,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2017A%26A...601A.140R">The Gaia-ESO 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Survey: Exploring the complex nature and origins of the Galactic bulge 
 populations</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Pancino, E., Romano, D., Tang, B., Tautvai&#353;ien&#279;, G., Casey, A. R., 
-=======
-*  <P>Pancino, E., Romano, D., Tang, B., Tautvai&#353;ien&#279;, G., Casey, A. R., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Gruyters, P., Geisler, D., San Roman, I., Randich, S., Alfaro, E. J., 
 Bragaglia, A., Flaccomio, E., Korn, A. J., Recio-Blanco, A., Smiljanic, R., 
 Carraro, G., Bayo, A., Costado, M. T., Damiani, F., Jofr&#233;, P., **Lardo, C.**, 
 de Laverny, P., Monaco, L., Morbidelli, L., Sbordone, L., Sousa, S. G., &amp; 
-<<<<<<< HEAD
 Villanova, S. 2017,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2017A%26A...601A.112P">The Gaia-ESO Survey. Mg-Al 
 anti-correlation in iDR4 globular clusters</A> 
 
 
 1.  <P>Sacco, G. G., Spina, L., Randich, S., Palla, F., Parker, R. J., Jeffries, 
-=======
-Villanova, S. 2017,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2017A%26A...601A.112P">The Gaia-ESO Survey. Mg-Al 
-anti-correlation in iDR4 globular clusters</A> 
-
-
-*  <P>Sacco, G. G., Spina, L., Randich, S., Palla, F., Parker, R. J., Jeffries, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 R. D., Jackson, R., Meyer, M. R., Mapelli, M., Lanzafame, A. C., Bonito, 
 R., Damiani, F., Franciosini, E., Frasca, A., Klutsch, A., Prisinzano, L., 
 Tognelli, E., Degl'Innocenti, S., Prada Moroni, P. G., Alfaro, E. J., 
@@ -775,19 +440,11 @@ Lopez-Santiago, J., Wright, N. J., Bayo, A., Gilmore, G., Bragaglia, A.,
 Flaccomio, E., Koposov, S. E., Pancino, E., Casey, A. R., Costado, M. T., 
 Donati, P., Hourihane, A., Jofr&#233;, P., **Lardo, C.**, Lewis, J., Magrini, L., 
 Monaco, L., Morbidelli, L., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 2017,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2017A%26A...601A..97S">The Gaia-ESO Survey: Structural and dynamical 
 properties of the young cluster Chamaeleon I</A> 
 
 
 1.  <P>Tang, B., Geisler, D., Friel, E., Villanova, S., Smiljanic, R., Casey, A. 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2017A%26A...601A..97S">The Gaia-ESO Survey: Structural and dynamical 
-properties of the young cluster Chamaeleon I</A> 
-
-
-*  <P>Tang, B., Geisler, D., Friel, E., Villanova, S., Smiljanic, R., Casey, A. 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 R., Randich, S., Magrini, L., San Roman, I., Mu&#241;oz, C., Cohen, R. E., 
 Mauro, F., Bragaglia, A., Donati, P., Tautvai&#353;ien*error*&#279;, G., Drazdauskas, 
 A., &#381;enovien&#279;, R., Snaith, O., Sousa, S., Adibekyan, V., Costado, M. T., 
@@ -796,7 +453,6 @@ Fran&#231;ois, P., Jofr&#232;, P., Sordo, R., Gilmore, G., Flaccomio, E., Koposo
 S., Korn, A. J., Lanzafame, A. C., Pancino, E., Bayo, A., Damiani, F., 
 Franciosini, E., Hourihane, A., **Lardo, C.**, Lewis, J., Monaco, L., 
 Morbidelli, L., Prisinzano, L., Sacco, G., Worley, C. C., &amp; Zaggia, S. 
-<<<<<<< HEAD
 2017,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2017A%26A...601A..56T">The Gaia-ESO survey: the inner disk 
 intermediate-age open cluster NGC 6802</A> 
 
@@ -804,29 +460,6 @@ intermediate-age open cluster NGC 6802</A>
 
 
 1.  <P>Casey, A. R., Ruchti, G., Masseron, T., Randich, S., Gilmore, G., Lind, 
-=======
-2017,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2017A%26A...601A..56T">The Gaia-ESO survey: the inner disk 
-intermediate-age open cluster NGC 6802</A> 
-
-
-*  <P>Pancino, E., **Lardo, C.**, Altavilla, G., Marinoni, S., Ragaini, S., Cocozza, 
-G., Bellazzini, M., Sabbi, E., Zoccali, M., Donati, P., Heiter, U., 
-Koposov, S. E., Blomme, R., Morel, T., S&#237;mon-D&#237;az, S., Lobel, A., Soubiran, 
-C., Montalban, J., Valentini, M., Casey, A. R., Blanco-Cuaresma, S., Jofr&#233;, 
-P., Worley, C. C., Magrini, L., Hourihane, A., Fran&#231;ois, P., Feltzing, S., 
-Gilmore, G., Randich, S., Asplund, M., Bonifacio, P., Drew, J. E., 
-Jeffries, R. D., Micela, G., Vallenari, A., Alfaro, E. J., Allende Prieto, 
-C., Babusiaux, C., Bensby, T., Bragaglia, A., Flaccomio, E., Hambly, N., 
-Korn, A. J., Lanzafame, A. C., Smiljanic, R., Van Eck, S., Walton, N. A., 
-Bayo, A., Carraro, G., Costado, M. T., Damiani, F., Edvardsson, B., 
-Franciosini, E., Frasca, A., Lewis, J., Monaco, L., Morbidelli, L., 
-Prisinzano, L., Sacco, G. G., Sbordone, L., Sousa, S. G., Zaggia, S., &amp; 
-Koch, A. 2017,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2017A%26A...598A...5P">The Gaia-ESO Survey: 
-Calibration strategy</A> 
-
-
-*  <P>Casey, A. R., Ruchti, G., Masseron, T., Randich, S., Gilmore, G., Lind, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 K., Kennedy, G. M., Koposov, S. E., Hourihane, A., Franciosini, E., Lewis, 
 J. R., Magrini, L., Morbidelli, L., Sacco, G. G., Worley, C. C., Feltzing, 
 S., Jeffries, R. D., Vallenari, A., Bensby, T., Bragaglia, A., Flaccomio, 
@@ -835,96 +468,54 @@ A., Smiljanic, R., Carraro, G., Costado, M. T., Damiani, F., Donati, P.,
 Frasca, A., Jofr&#233;, P., **Lardo, C.**, de Laverny, P., Monaco, L., Prisinzano, 
 L., Sbordone, L., Sousa, S. G., Tautvai&#353;ien&#279;, G., Zaggia, S., Zwitter, T., 
 Delgado Mena, E., Chorniy, Y., Martell, S. L., Silva Aguirre, V., Miglio, 
-<<<<<<< HEAD
 A., Chiappini, C., Montalban, J., Morel, T., &amp; Valentini, M. 2016,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2016MNRAS.461.3336C">The Gaia-ESO Survey: revisiting 
 the Li-rich giant problem</A> 
 
 
 1.  <P>Delgado, A. J., Sampedro, L., Alfaro, E. J., Costado, M. T., Yun, J. L., 
-=======
-A., Chiappini, C., Montalban, J., Morel, T., &amp; Valentini, M. 2016,  Monthly 
-Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2016MNRAS.461.3336C">The Gaia-ESO Survey: revisiting 
-the Li-rich giant problem</A> 
-
-
-*  <P>Delgado, A. J., Sampedro, L., Alfaro, E. J., Costado, M. T., Yun, J. L., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Frasca, A., Lanzafame, A. C., Drew, J. E., Eisl&#246;ffel, J., Blomme, R., 
 Morel, T., Lobel, A., Semaan, T., Randich, S., Jeffries, R. D., Micela, G., 
 Vallenari, A., Kalari, V., Gilmore, G., Flaccomio, E., Carraro, G., Lardo, 
 C., Monaco, L., Prisinzano, L., Sousa, S. G., Morbidelli, L., Lewis, J., 
 Koposov, S., Hourihane, A., Worley, C., Casey, A., Franciosini, E., Sacco, 
-<<<<<<< HEAD
 G., &amp; Magrini, L. 2016,  *Monthly Notices of the Royal Astronomical Society* 
-=======
-G., &amp; Magrini, L. 2016,  Monthly Notices of the Royal Astronomical Society 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 <A href="http://adsabs.harvard.edu/abs/2016MNRAS.460.3305D">The Gaia-ESO Survey: pre-main-sequence stars in the young open cluster NGC 
 3293</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Stonkut&#279;, E., Koposov, S. E., Howes, L. M., Feltzing, S., Worley, C. C., 
-=======
-*  <P>Stonkut&#279;, E., Koposov, S. E., Howes, L. M., Feltzing, S., Worley, C. C., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Gilmore, G., Ruchti, G. R., Kordopatis, G., Randich, S., Zwitter, T., 
 Bensby, T., Bragaglia, A., Smiljanic, R., Costado, M. T., Tautvai&#353;ien&#279;, G., 
 Casey, A. R., Korn, A. J., Lanzafame, A. C., Pancino, E., Franciosini, E., 
 Hourihane, A., Jofr&#233;, P., **Lardo, C.**, Lewis, J., Magrini, L., Monaco, L., 
-<<<<<<< HEAD
 Morbidelli, L., Sacco, G. G., &amp; Sbordone, L. 2016,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2016MNRAS.460.1131S">The Gaia-ESO Survey: the selection function of 
 the Milky Way field stars</A> 
 
 
 1.  <P>Damiani, F., Bonito, R., Magrini, L., Prisinzano, L., Mapelli, M., Micela, 
-=======
-Morbidelli, L., Sacco, G. G., &amp; Sbordone, L. 2016,  Monthly Notices of the 
-Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2016MNRAS.460.1131S">The Gaia-ESO Survey: the selection function of 
-the Milky Way field stars</A> 
-
-
-*  <P>Damiani, F., Bonito, R., Magrini, L., Prisinzano, L., Mapelli, M., Micela, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 G., Kalari, V., Ma&#237;z Apell&#225;niz, J., Gilmore, G., Randich, S., Alfaro, E., 
 Flaccomio, E., Koposov, S., Klutsch, A., Lanzafame, A. C., Pancino, E., 
 Sacco, G. G., Bayo, A., Carraro, G., Casey, A. R., Costado, M. T., 
 Franciosini, E., Hourihane, A., **Lardo, C.**, Lewis, J., Monaco, L., 
 Morbidelli, L., Worley, C., Zaggia, S., Zwitter, T., &amp; Dorda, R. 2016,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2016A%26A...591A..74D">Gaia-ESO Survey: Gas dynamics in the Carina 
 nebula through optical emission lines</A> 
 
 
 1.  <P>Smiljanic, R., Franciosini, E., Randich, S., Magrini, L., Bragaglia, A., 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...591A..74D">Gaia-ESO Survey: Gas dynamics in the Carina 
-nebula through optical emission lines</A> 
-
-
-*  <P>Smiljanic, R., Franciosini, E., Randich, S., Magrini, L., Bragaglia, A., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Pasquini, L., Vallenari, A., Tautvai&#353;ien&#279;, G., Biazzo, K., Frasca, A., 
 Donati, P., Delgado Mena, E., Casey, A. R., Geisler, D., Villanova, S., 
 Tang, B., Sousa, S. G., Gilmore, G., Bensby, T., Fran&#231;ois, P., Koposov, S. 
 E., Lanzafame, A. C., Pancino, E., Recio-Blanco, A., Costado, M. T., 
 Hourihane, A., **Lardo, C.**, de Laverny, P., Lewis, J., Monaco, L., 
 Morbidelli, L., Sacco, G. G., Worley, C. C., Zaggia, S., &amp; Martell, S. 
-<<<<<<< HEAD
 2016,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2016A%26A...591A..62S">The Gaia-ESO Survey: Inhibited extra 
 mixing in two giants of the open cluster Trumpler 20?</A> 
 
 
 1.  <P>Jacobson, H. R., Friel, E. D., J&#237;lkov&#225;, L., Magrini, L., Bragaglia, A., 
-=======
-2016,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...591A..62S">The Gaia-ESO Survey: Inhibited extra 
-mixing in two giants of the open cluster Trumpler 20?</A> 
-
-
-*  <P>Jacobson, H. R., Friel, E. D., J&#237;lkov&#225;, L., Magrini, L., Bragaglia, A., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Vallenari, A., Tosi, M., Randich, S., Donati, P., Cantat-Gaudin, T., Sordo, 
 R., Smiljanic, R., Overbeek, J. C., Carraro, G., Tautvai&#353;ien&#279;, G., San 
 Roman, I., Villanova, S., Geisler, D., Mu&#241;oz, C., Jim&#233;nez-Esteban, F., 
@@ -932,38 +523,22 @@ Tang, B., Gilmore, G., Alfaro, E. J., Bensby, T., Flaccomio, E., Koposov,
 S. E., Korn, A. J., Pancino, E., Recio-Blanco, A., Casey, A. R., Costado, 
 M. T., Franciosini, E., Heiter, U., Hill, V., Hourihane, A., **Lardo, C.**, de 
 Laverny, P., Lewis, J., Monaco, L., Morbidelli, L., Sacco, G. G., Sousa, S. 
-<<<<<<< HEAD
 G., Worley, C. C., &amp; Zaggia, S. 2016,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2016A%26A...591A..37J">The 
 Gaia-ESO Survey: Probes of the inner disk abundance gradient</A> 
 
 
 1.  <P>Bouvier, J., Lanzafame, A. C., Venuti, L., Klutsch, A., Jeffries, R., 
-=======
-G., Worley, C. C., &amp; Zaggia, S. 2016,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...591A..37J">The 
-Gaia-ESO Survey: Probes of the inner disk abundance gradient</A> 
-
-
-*  <P>Bouvier, J., Lanzafame, A. C., Venuti, L., Klutsch, A., Jeffries, R., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Frasca, A., Moraux, E., Biazzo, K., Messina, S., Micela, G., Randich, S., 
 Stauffer, J., Cody, A. M., Flaccomio, E., Gilmore, G., Bayo, A., Bensby, 
 T., Bragaglia, A., Carraro, G., Casey, A., Costado, M. T., Damiani, F., 
 Delgado Mena, E., Donati, P., Franciosini, E., Hourihane, A., Koposov, S., 
 **Lardo, C.**, Lewis, J., Magrini, L., Monaco, L., Morbidelli, L., Prisinzano, 
 L., Sacco, G., Sbordone, L., Sousa, S. G., Vallenari, A., Worley, C. C., 
-<<<<<<< HEAD
 Zaggia, S., &amp; Zwitter, T. 2016,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2016A%26A...590A..78B">The Gaia-ESO 
 Survey: A lithium-rotation connection at 5 Myr?</A> 
 
 
 1.  <P>Smiljanic, R., Romano, D., Bragaglia, A., Donati, P., Magrini, L., Friel, 
-=======
-Zaggia, S., &amp; Zwitter, T. 2016,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...590A..78B">The Gaia-ESO 
-Survey: A lithium-rotation connection at 5 Myr?</A> 
-
-
-*  <P>Smiljanic, R., Romano, D., Bragaglia, A., Donati, P., Magrini, L., Friel, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 E., Jacobson, H., Randich, S., Ventura, P., Lind, K., Bergemann, M., 
 Nordlander, T., Morel, T., Pancino, E., Tautvai&#353;ien&#279;, G., Adibekyan, V., 
 Tosi, M., Vallenari, A., Gilmore, G., Bensby, T., Fran&#231;ois, P., Koposov, 
@@ -971,42 +546,25 @@ S., Lanzafame, A. C., Recio-Blanco, A., Bayo, A., Carraro, G., Casey, A.
 R., Costado, M. T., Franciosini, E., Heiter, U., Hill, V., Hourihane, A., 
 Jofr&#233;, P., **Lardo, C.**, de Laverny, P., Lewis, J., Monaco, L., Morbidelli, 
 L., Sacco, G. G., Sbordone, L., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 
-<<<<<<< HEAD
 2016,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2016A%26A...589A.115S">The Gaia-ESO Survey: Sodium and 
-=======
-2016,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...589A.115S">The Gaia-ESO Survey: Sodium and 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 aluminium abundances in giants and dwarfs. Implications for stellar and 
 Galactic chemical evolution</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Prisinzano, L., Damiani, F., Micela, G., Jeffries, R. D., Franciosini, E., 
-=======
-*  <P>Prisinzano, L., Damiani, F., Micela, G., Jeffries, R. D., Franciosini, E., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Sacco, G. G., Frasca, A., Klutsch, A., Lanzafame, A., Alfaro, E. J., 
 Biazzo, K., Bonito, R., Bragaglia, A., Caramazza, M., Vallenari, A., 
 Carraro, G., Costado, M. T., Flaccomio, E., Jofr&#233;, P., **Lardo, C.**, Monaco, 
 L., Morbidelli, L., Mowlavi, N., Pancino, E., Randich, S., &amp; Zaggia, S. 
-<<<<<<< HEAD
 2016,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2016A%26A...589A..70P">The Gaia-ESO Survey: membership and 
 initial mass function of the &#947; Velorum cluster</A> 
 
 
 1.  <P>Rigliaco, E., Wilking, B., Meyer, M. R., Jeffries, R. D., Cottaar, M., 
-=======
-2016,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...589A..70P">The Gaia-ESO Survey: membership and 
-initial mass function of the &#947; Velorum cluster</A> 
-
-
-*  <P>Rigliaco, E., Wilking, B., Meyer, M. R., Jeffries, R. D., Cottaar, M., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Frasca, A., Wright, N. J., Bayo, A., Bonito, R., Damiani, F., Jackson, R. 
 J., Jim&#233;nez-Esteban, F., Kalari, V. M., Klutsch, A., Lanzafame, A. C., 
 Sacco, G., Gilmore, G., Randich, S., Alfaro, E. J., Bragaglia, A., Costado, 
 M. T., Franciosini, E., **Lardo, C.**, Monaco, L., Morbidelli, L., Prisinzano, 
-<<<<<<< HEAD
 L., Sousa, S. G., &amp; Zaggia, S. 2016,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2016A%26A...588A.123R">The 
 Gaia-ESO Survey: Dynamical analysis of the L1688 region in Ophiuchus</A> 
 
@@ -1019,80 +577,40 @@ NGC 2264, NGC 2547, and NGC 2516</A>
 
 
 1.  <P>Rojas-Arriagada, A., Recio-Blanco, A., de Laverny, P., Schultheis, M., 
-=======
-L., Sousa, S. G., &amp; Zaggia, S. 2016,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...588A.123R">The 
-Gaia-ESO Survey: Dynamical analysis of the L1688 region in Ophiuchus</A> 
-
-
-*  <P>Jackson, R. J., Jeffries, R. D., Randich, S., Bragaglia, A., Carraro, G., 
-Costado, M. T., Flaccomio, E., Lanzafame, A. C., **Lardo, C.**, Monaco, L., 
-Morbidelli, L., Smiljanic, R., &amp; Zaggia, S. 2016,  Astronomy and 
-Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...586A..52J">The Gaia-ESO Survey: Stellar radii in the young open clusters 
-NGC 2264, NGC 2547, and NGC 2516</A> 
-
-
-*  <P>Rojas-Arriagada, A., Recio-Blanco, A., de Laverny, P., Schultheis, M., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Guiglion, G., Mikolaitis, &#352;., Kordopatis, G., Hill, V., Gilmore, G., 
 Randich, S., Alfaro, E. J., Bensby, T., Koposov, S. E., Costado, M. T., 
 Franciosini, E., Hourihane, A., Jofr&#233;, P., **Lardo, C.**, Lewis, J., Lind, K., 
 Magrini, L., Monaco, L., Morbidelli, L., Sacco, G. G., Worley, C. C., 
-<<<<<<< HEAD
 Zaggia, S., &amp; Chiappini, C. 2016,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2016A%26A...586A..39R">The Gaia-ESO 
-=======
-Zaggia, S., &amp; Chiappini, C. 2016,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2016A%26A...586A..39R">The Gaia-ESO 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Survey: Separating disk chemical substructures with cluster models. 
 Evidence of a separate evolution in the metal-poor thin disk</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Guiglion, G., Recio-Blanco, A., de Laverny, P., Kordopatis, G., Hill, V., 
-=======
-*  <P>Guiglion, G., Recio-Blanco, A., de Laverny, P., Kordopatis, G., Hill, V., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Mikolaitis, &#352;., Minchev, I., Chiappini, C., Wyse, R. F. G., Gilmore, G., 
 Randich, S., Feltzing, S., Bensby, T., Flaccomio, E., Koposov, S. E., 
 Pancino, E., Bayo, A., Costado, M. T., Franciosini, E., Hourihane, A., 
 Jofr&#233;, P., **Lardo, C.**, Lewis, J., Lind, K., Magrini, L., Morbidelli, L., 
-<<<<<<< HEAD
 Sacco, G. G., Ruchti, G., Worley, C. C., &amp; Zaggia, S. 2015,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...583A..91G">The Gaia-ESO Survey: New constraints on the Galactic disc 
 velocity dispersion and its chemical dependencies</A> 
 
 
 1.  <P>Spina, L., Palla, F., Randich, S., Sacco, G., Jeffries, R., Magrini, L., 
-=======
-Sacco, G. G., Ruchti, G., Worley, C. C., &amp; Zaggia, S. 2015,  Astronomy and 
-Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...583A..91G">The Gaia-ESO Survey: New constraints on the Galactic disc 
-velocity dispersion and its chemical dependencies</A> 
-
-
-*  <P>Spina, L., Palla, F., Randich, S., Sacco, G., Jeffries, R., Magrini, L., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Franciosini, E., Meyer, M. R., Tautvai&#353;ien&#279;, G., Gilmore, G., Alfaro, E. 
 J., Allende Prieto, C., Bensby, T., Bragaglia, A., Flaccomio, E., Koposov, 
 S. E., Lanzafame, A. C., Costado, M. T., Hourihane, A., **Lardo, C.**, Lewis, 
 J., Monaco, L., Morbidelli, L., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 
-<<<<<<< HEAD
 2015,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...582L...6S">The Gaia-ESO Survey: chemical signatures 
 of rocky accretion in a young solar-type star</A> 
 
 
 1.  <P>Kordopatis, G., Wyse, R. F. G., Gilmore, G., Recio-Blanco, A., de Laverny, 
-=======
-2015,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...582L...6S">The Gaia-ESO Survey: chemical signatures 
-of rocky accretion in a young solar-type star</A> 
-
-
-*  <P>Kordopatis, G., Wyse, R. F. G., Gilmore, G., Recio-Blanco, A., de Laverny, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 P., Hill, V., Adibekyan, V., Heiter, U., Minchev, I., Famaey, B., Bensby, 
 T., Feltzing, S., Guiglion, G., Korn, A. J., Mikolaitis, &#352;., Schultheis, 
 M., Vallenari, A., Bayo, A., Carraro, G., Flaccomio, E., Franciosini, E., 
 Hourihane, A., Jofr&#233;, P., Koposov, S. E., **Lardo, C.**, Lewis, J., Lind, K., 
 Magrini, L., Morbidelli, L., Pancino, E., Randich, S., Sacco, G. G., 
-<<<<<<< HEAD
 Worley, C. C., &amp; Zaggia, S. 2015,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...582A.122K">The Gaia-ESO 
 Survey: characterisation of the [&#945;/Fe] sequences in the Milky Way discs</A> 
 
@@ -1106,42 +624,18 @@ emission stars</A>
 
 
 1.  <P>Magrini, L., Randich, S., Donati, P., Bragaglia, A., Adibekyan, V., 
-=======
-Worley, C. C., &amp; Zaggia, S. 2015,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...582A.122K">The Gaia-ESO 
-Survey: characterisation of the [&#945;/Fe] sequences in the Milky Way discs</A> 
-
-
-*  <P>Traven, G., Zwitter, T., Van Eck, S., Klutsch, A., Bonito, R., Lanzafame, 
-A. C., Alfaro, E. J., Bayo, A., Bragaglia, A., Costado, M. T., Damiani, F., 
-Flaccomio, E., Frasca, A., Hourihane, A., Jimenez-Esteban, F., **Lardo, C.**, 
-Morbidelli, L., Pancino, E., Prisinzano, L., Sacco, G. G., &amp; Worley, C. C. 
-2015,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...581A..52T">The Gaia-ESO Survey: Catalogue of H&#945; 
-emission stars</A> 
-
-
-*  <P>Magrini, L., Randich, S., Donati, P., Bragaglia, A., Adibekyan, V., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Romano, D., Smiljanic, R., Blanco-Cuaresma, S., Tautvai&#353;ien&#279;, G., Friel, 
 E., Overbeek, J., Jacobson, H., Cantat-Gaudin, T., Vallenari, A., Sordo, 
 R., Pancino, E., Geisler, D., San Roman, I., Villanova, S., Casey, A., 
 Hourihane, A., Worley, C. C., Francois, P., Gilmore, G., Bensby, T., 
 Flaccomio, E., Korn, A. J., Recio-Blanco, A., Carraro, G., Costado, M. T., 
 Franciosini, E., Heiter, U., Jofr&#233;, P., **Lardo, C.**, de Laverny, P., Monaco, 
-<<<<<<< HEAD
 L., Morbidelli, L., Sacco, G., Sousa, S. G., &amp; Zaggia, S. 2015,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...580A..85M">The Gaia-ESO Survey: Insights into the inner-disc 
 evolution from open clusters</A> 
 
 
 1.  <P>Jackson, R. J., Jeffries, R. D., Lewis, J., Koposov, S. E., Sacco, G. G., 
-=======
-L., Morbidelli, L., Sacco, G., Sousa, S. G., &amp; Zaggia, S. 2015,  Astronomy 
-and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...580A..85M">The Gaia-ESO Survey: Insights into the inner-disc 
-evolution from open clusters</A> 
-
-
-*  <P>Jackson, R. J., Jeffries, R. D., Lewis, J., Koposov, S. E., Sacco, G. G., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Randich, S., Gilmore, G., Asplund, M., Binney, J., Bonifacio, P., Drew, J. 
 E., Feltzing, S., Ferguson, A. M. N., Micela, G., Neguerela, I., Prusti, 
 T., Rix, H.-W., Vallenari, A., Alfaro, E. J., Allende Prieto, C., 
@@ -1153,62 +647,36 @@ Edvardsson, B., Franciosini, E., Frasca, A., Heiter, U., Hill, V.,
 Hourihane, A., Jofr&#233;, P., **Lardo, C.**, de Laverny, P., Lind, K., Magrini, L., 
 Marconi, G., Martayan, C., Masseron, T., Monaco, L., Morbidelli, L., 
 Prisinzano, L., Sbordone, L., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 
-<<<<<<< HEAD
 2015,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...580A..75J">The Gaia-ESO Survey: Empirical 
-=======
-2015,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...580A..75J">The Gaia-ESO Survey: Empirical 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 determination of the precision of stellar radial velocities and projected 
 rotation velocities</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Ruchti, G. R., Read, J. I., Feltzing, S., Serenelli, A. M., McMillan, P., 
-=======
-*  <P>Ruchti, G. R., Read, J. I., Feltzing, S., Serenelli, A. M., McMillan, P., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Lind, K., Bensby, T., Bergemann, M., Asplund, M., Vallenari, A., Flaccomio, 
 E., Pancino, E., Korn, A. J., Recio-Blanco, A., Bayo, A., Carraro, G., 
 Costado, M. T., Damiani, F., Heiter, U., Hourihane, A., Jofr&#233;, P., 
 Kordopatis, G., **Lardo, C.**, de Laverny, P., Monaco, L., Morbidelli, L., 
-<<<<<<< HEAD
 Sbordone, L., Worley, C. C., &amp; Zaggia, S. 2015,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2015MNRAS.450.2874R">The Gaia-ESO Survey: a quiescent Milky Way with 
 no significant dark/stellar accreted disc</A> 
 
 
 1.  <P>San Roman, I., Mu&#241;oz, C., Geisler, D., Villanova, S., Kacharov, N., Koch, 
-=======
-Sbordone, L., Worley, C. C., &amp; Zaggia, S. 2015,  Monthly Notices of the 
-Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2015MNRAS.450.2874R">The Gaia-ESO Survey: a quiescent Milky Way with 
-no significant dark/stellar accreted disc</A> 
-
-
-*  <P>San Roman, I., Mu&#241;oz, C., Geisler, D., Villanova, S., Kacharov, N., Koch, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 A., Carraro, G., Tautvai&#353;iene, G., Vallenari, A., Alfaro, E. J., Bensby, 
 T., Flaccomio, E., Francois, P., Korn, A. J., Pancino, E., Recio-Blanco, 
 A., Smiljanic, R., Bergemann, M., Costado, M. T., Damiani, F., Heiter, U., 
 Hourihane, A., Jofr&#233;, P., **Lardo, C.**, de Laverny, P., Masseron, T., 
 Morbidelli, L., Sbordone, L., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 
-<<<<<<< HEAD
 2015,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...579A...6S">The Gaia-ESO Survey: Detailed abundances 
 in the metal-poor globular cluster NGC 4372</A> 
 
 
 1.  <P>Mapelli, M., Vallenari, A., Jeffries, R. D., Gavagnin, E., Cantat-Gaudin, 
-=======
-2015,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...579A...6S">The Gaia-ESO Survey: Detailed abundances 
-in the metal-poor globular cluster NGC 4372</A> 
-
-
-*  <P>Mapelli, M., Vallenari, A., Jeffries, R. D., Gavagnin, E., Cantat-Gaudin, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 T., Sacco, G. G., Meyer, M. R., Alfaro, E. J., Costado, M., Damiani, F., 
 Frasca, A., Lanzafame, A. C., Randich, S., Sordo, R., Zaggia, S., Micela, 
 G., Flaccomio, E., Pancino, E., Bergemann, M., Hourihane, A., **Lardo, C.**, 
 Magrini, L., Morbidelli, L., Prisinzano, L., &amp; Worley, C. C. 2015,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...578A..35M">The Gaia-ESO Survey: N-body modelling of the 
 Gamma Velorum cluster</A> 
 
@@ -1222,21 +690,6 @@ Survey: Tracing interstellar extinction</A>
 
 
 1.  <P>Lanzafame, A. C., Frasca, A., Damiani, F., Franciosini, E., Cottaar, M., 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...578A..35M">The Gaia-ESO Survey: N-body modelling of the 
-Gamma Velorum cluster</A> 
-
-
-*  <P>Schultheis, M., Kordopatis, G., Recio-Blanco, A., de Laverny, P., Hill, 
-V., Gilmore, G., Alfaro, E. J., Costado, M. T., Bensby, T., Damiani, F., 
-Feltzing, S., Flaccomio, E., **Lardo, C.**, Jofre, P., Prisinzano, L., Zaggia, 
-S., Jimenez-Esteban, F., Morbidelli, L., Lanzafame, A. C., Hourihane, A., 
-Worley, C., &amp; Francois, P. 2015,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...577A..77S">The Gaia-ESO 
-Survey: Tracing interstellar extinction</A> 
-
-
-*  <P>Lanzafame, A. C., Frasca, A., Damiani, F., Franciosini, E., Cottaar, M., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Sousa, S. G., Tabernero, H. M., Klutsch, A., Spina, L., Biazzo, K., 
 Prisinzano, L., Sacco, G. G., Randich, S., Brugaletta, E., Delgado Mena, 
 E., Adibekyan, V., Montes, D., Bonito, R., Gameiro, J. F., Alcal&#225;, J. M., 
@@ -1250,19 +703,11 @@ N., Bayo, A., Bergemann, M., Carraro, G., Costado, M. T., Edvardsson, B.,
 Heiter, U., Hill, V., Hourihane, A., Jackson, R. J., Jofr&#233;, P., **Lardo, C.**, 
 Lewis, J., Lind, K., Magrini, L., Marconi, G., Martayan, C., Masseron, T., 
 Monaco, L., Morbidelli, L., Sbordone, L., Worley, C. C., &amp; Zaggia, S. 2015,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...576A..80L">Gaia-ESO Survey: Analysis of pre-main sequence 
 stellar spectra</A> 
 
 
 1.  <P>Lind, K., Koposov, S. E., Battistini, C., Marino, A. F., Ruchti, G., 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...576A..80L">Gaia-ESO Survey: Analysis of pre-main sequence 
-stellar spectra</A> 
-
-
-*  <P>Lind, K., Koposov, S. E., Battistini, C., Marino, A. F., Ruchti, G., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Serenelli, A., Worley, C. C., Alves-Brito, A., Asplund, M., Barklem, P. S., 
 Bensby, T., Bergemann, M., Blanco-Cuaresma, S., Bragaglia, A., Edvardsson, 
 B., Feltzing, S., Gruyters, P., Heiter, U., Jofre, P., Korn, A. J., 
@@ -1270,95 +715,55 @@ Nordlander, T., Ryde, N., Soubiran, C., Gilmore, G., Randich, S., Ferguson,
 A. M. N., Jeffries, R. D., Vallenari, A., Allende Prieto, C., Pancino, E., 
 Recio-Blanco, A., Romano, D., Smiljanic, R., Bellazzini, M., Damiani, F., 
 Hill, V., de Laverny, P., Jackson, R. J., **Lardo, C.**, &amp; Zaggia, S. 2015,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...575L..12L">The Gaia-ESO Survey: A globular cluster escapee 
 in the Galactic halo</A> 
 
 
 1.  <P>Frasca, A., Biazzo, K., Lanzafame, A. C., Alcal&#225;, J. M., Brugaletta, E., 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...575L..12L">The Gaia-ESO Survey: A globular cluster escapee 
-in the Galactic halo</A> 
-
-
-*  <P>Frasca, A., Biazzo, K., Lanzafame, A. C., Alcal&#225;, J. M., Brugaletta, E., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Klutsch, A., Stelzer, B., Sacco, G. G., Spina, L., Jeffries, R. D., Montes, 
 D., Alfaro, E. J., Barentsen, G., Bonito, R., Gameiro, J. F., 
 L&#243;pez-Santiago, J., Pace, G., Pasquini, L., Prisinzano, L., Sousa, S. G., 
 Gilmore, G., Randich, S., Micela, G., Bragaglia, A., Flaccomio, E., Bayo, 
 A., Costado, M. T., Franciosini, E., Hill, V., Hourihane, A., Jofr&#233;, P., 
 **Lardo, C.**, Maiorca, E., Masseron, T., Morbidelli, L., &amp; Worley, C. C. 2015,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...575A...4F">The Gaia-ESO Survey: Chromospheric emission, 
 accretion properties, and rotation in &#947; Velorum and Chamaeleon I&#8902;&#8902;&#8902;</A> 
 
 
 1.  <P>Sacco, G. G., Jeffries, R. D., Randich, S., Franciosini, E., Jackson, R. 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...575A...4F">The Gaia-ESO Survey: Chromospheric emission, 
-accretion properties, and rotation in &#947; Velorum and Chamaeleon I&#8902;&#8902;&#8902;</A> 
-
-
-*  <P>Sacco, G. G., Jeffries, R. D., Randich, S., Franciosini, E., Jackson, R. 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 J., Cottaar, M., Spina, L., Palla, F., Mapelli, M., Alfaro, E. J., Bonito, 
 R., Damiani, F., Frasca, A., Klutsch, A., Lanzafame, A., Bayo, A., Barrado, 
 D., Jim&#233;nez-Esteban, F., Gilmore, G., Micela, G., Vallenari, A., Allende 
 Prieto, C., Flaccomio, E., Carraro, G., Costado, M. T., Jofr&#233;, P., Lardo, 
 C., Magrini, L., Morbidelli, L., Prisinzano, L., &amp; Sbordone, L. 2015,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...574L...7S">The Gaia-ESO survey: Discovery of a spatially 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...574L...7S">The Gaia-ESO survey: Discovery of a spatially 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 extended low-mass population in the Vela OB2 association</A> 
 
 
 
 
-<<<<<<< HEAD
 1.  <P>Tautvai&#353;ien&#279;, G., Drazdauskas, A., Mikolaitis, &#352;., Barisevi&#269;ius, G., 
-=======
-*  <P>Tautvai&#353;ien&#279;, G., Drazdauskas, A., Mikolaitis, &#352;., Barisevi&#269;ius, G., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Puzeras, E., Stonkut&#279;, E., Chorniy, Y., Magrini, L., Romano, D., Smiljanic, 
 R., Bragaglia, A., Carraro, G., Friel, E., Morel, T., Pancino, E., Donati, 
 P., Jim&#233;nez-Esteban, F., Gilmore, G., Randich, S., Jeffries, R. D., 
 Vallenari, A., Bensby, T., Flaccomio, E., Recio-Blanco, A., Costado, M. T., 
 Hill, V., Jofr&#233;, P., **Lardo, C.**, de Laverny, P., Masseron, T., Moribelli, 
-<<<<<<< HEAD
 L., Sousa, S. G., &amp; Zaggia, S. 2015,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A..55T">The 
-=======
-L., Sousa, S. G., &amp; Zaggia, S. 2015,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A..55T">The 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Gaia-ESO Survey: CNO abundances in the open clusters Trumpler 20, NGC 4815, 
 and NGC 6705</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Puspitarini, L., Lallement, R., Babusiaux, C., Chen, H.-C., Bonifacio, P., 
-=======
-*  <P>Puspitarini, L., Lallement, R., Babusiaux, C., Chen, H.-C., Bonifacio, P., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Sbordone, L., Caffau, E., Duffau, S., Hill, V., Monreal-Ibero, A., Royer, 
 F., Arenou, F., Peralta, R., Drew, J. E., Bonito, R., Lopez-Santiago, J., 
 Alfaro, E. J., Bensby, T., Bragaglia, A., Flaccomio, E., Lanzafame, A. C., 
 Pancino, E., Recio-Blanco, A., Smiljanic, R., Costado, M. T., **Lardo, C.**, de 
-<<<<<<< HEAD
 Laverny, P., &amp; Zwitter, T. 2015,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A..35P">The Gaia-ESO 
-=======
-Laverny, P., &amp; Zwitter, T. 2015,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A..35P">The Gaia-ESO 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Survey: Extracting diffuse interstellar bands from cool star spectra. 
 DIB-based interstellar medium line-of-sight structures at the kpc scale</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Howes, L. M., Asplund, M., Casey, A. R., Keller, S. C., Yong, D., Gilmore, 
-=======
-*  <P>Howes, L. M., Asplund, M., Casey, A. R., Keller, S. C., Yong, D., Gilmore, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 G., Lind, K., Worley, C., Bessell, M. S., Casagrande, L., Marino, A. F., 
 Nataf, D. M., Owen, C. I., Da Costa, G. S., Schmidt, B. P., Tisserand, P., 
 Randich, S., Feltzing, S., Vallenari, A., Allende Prieto, C., Bensby, T., 
@@ -1366,26 +771,17 @@ Flaccomio, E., Korn, A. J., Pancino, E., Recio-Blanco, A., Smiljanic, R.,
 Bergemann, M., Costado, M. T., Damiani, F., Heiter, U., Hill, V., 
 Hourihane, A., Jofr&#233;, P., **Lardo, C.**, de Laverny, P., Magrini, L., Maiorca, 
 E., Masseron, T., Morbidelli, L., Sacco, G. G., Minniti, D., &amp; Zoccali, M. 
-<<<<<<< HEAD
 2014,  *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2014MNRAS.445.4241H">The Gaia-ESO 
 Survey: the most metal-poor stars in the Galactic bulge</A> 
 
 
 1.  <P>Mikolaitis, &#352;., Hill, V., Recio-Blanco, A., de Laverny, P., Allende 
-=======
-2014,  Monthly Notices of the Royal Astronomical Society <A href="http://adsabs.harvard.edu/abs/2014MNRAS.445.4241H">The Gaia-ESO 
-Survey: the most metal-poor stars in the Galactic bulge</A> 
-
-
-*  <P>Mikolaitis, &#352;., Hill, V., Recio-Blanco, A., de Laverny, P., Allende 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Prieto, C., Kordopatis, G., Tautvai&#353;iene, G., Romano, D., Gilmore, G., 
 Randich, S., Feltzing, S., Micela, G., Vallenari, A., Alfaro, E. J., 
 Bensby, T., Bragaglia, A., Flaccomio, E., Lanzafame, A. C., Pancino, E., 
 Smiljanic, R., Bergemann, M., Carraro, G., Costado, M. T., Damiani, F., 
 Hourihane, A., Jofr&#233;, P., **Lardo, C.**, Magrini, L., Maiorca, E., Morbidelli, 
 L., Sbordone, L., Sousa, S. G., Worley, C. C., &amp; Zaggia, S. 2014,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...572A..33M">The Gaia-ESO Survey: the chemical structure of 
 the Galactic discs from the first internal data release</A> 
 
@@ -1399,21 +795,6 @@ G., Mikolaitis, S., Zaggia, S., &amp; Tautvai&#353;ien&#279;, G. 2014,
 
 
 1.  <P>Smiljanic, R., Korn, A. J., Bergemann, M., Frasca, A., Magrini, L., 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...572A..33M">The Gaia-ESO Survey: the chemical structure of 
-the Galactic discs from the first internal data release</A> 
-
-
-*  <P>Jackson-Jones, R., Jofr&#233;, P., Hawkins, K., Hourihane, A., Gilmore, G., 
-Kordopatis, G., Worley, C., Randich, S., Vallenari, A., Bensby, T., 
-Bragaglia, A., Flaccomio, E., Korn, A. J., Recio-Blanco, A., Smiljanic, R., 
-Costado, M. T., Heiter, U., Hill, V., **Lardo, C.**, de Laverny, P., Guiglion, 
-G., Mikolaitis, S., Zaggia, S., &amp; Tautvai&#353;ien&#279;, G. 2014,  Astronomy and 
-Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...571L...5J">The Gaia-ESO Survey: &#945;-abundances of metal-poor stars</A> 
-
-
-*  <P>Smiljanic, R., Korn, A. J., Bergemann, M., Frasca, A., Magrini, L., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Masseron, T., Pancino, E., Ruchti, G., San Roman, I., Sbordone, L., Sousa, 
 S. G., Tabernero, H., Tautvai&#353;ien&#279;, G., Valentini, M., Weber, M., Worley, 
 C. C., Adibekyan, V. Zh., Allende Prieto, C., Barisevi&#269;ius, G., Biazzo, K., 
@@ -1432,40 +813,23 @@ Prusti, T., Rix, H.-W., Alfaro, E., Babusiaux, C., Bensby, T., Blomme, R.,
 Flaccomio, E., Fran&#231;ois, P., Irwin, M., Koposov, S., Walton, N., Bayo, A., 
 Carraro, G., Costado, M. T., Damiani, F., Edvardsson, B., Hourihane, A., 
 Jackson, R., Lewis, J., Lind, K., Marconi, G., Martayan, C., Monaco, L., 
-<<<<<<< HEAD
 Morbidelli, L., Prisinzano, L., &amp; Zaggia, S. 2014,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...570A.122S">The Gaia-ESO Survey: The analysis of high-resolution UVES 
 spectra of FGK-type stars</A> 
 
 
 1.  <P>Rojas-Arriagada, A., Recio-Blanco, A., Hill, V., de Laverny, P., 
-=======
-Morbidelli, L., Prisinzano, L., &amp; Zaggia, S. 2014,  Astronomy and 
-Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...570A.122S">The Gaia-ESO Survey: The analysis of high-resolution UVES 
-spectra of FGK-type stars</A> 
-
-
-*  <P>Rojas-Arriagada, A., Recio-Blanco, A., Hill, V., de Laverny, P., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Schultheis, M., Babusiaux, C., Zoccali, M., Minniti, D., Gonzalez, O. A., 
 Feltzing, S., Gilmore, G., Randich, S., Vallenari, A., Alfaro, E. J., 
 Bensby, T., Bragaglia, A., Flaccomio, E., Lanzafame, A. C., Pancino, E., 
 Smiljanic, R., Bergemann, M., Costado, M. T., Damiani, F., Hourihane, A., 
 Jofr&#233;, P., **Lardo, C.**, Magrini, L., Maiorca, E., Morbidelli, L., Sbordone, 
-<<<<<<< HEAD
 L., Worley, C. C., Zaggia, S., &amp; Wyse, R. 2014,  *Astronomy and Astrophysics* 
-=======
-L., Worley, C. C., Zaggia, S., &amp; Wyse, R. 2014,  Astronomy and Astrophysics 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 <A href="http://adsabs.harvard.edu/abs/2014A%26A...569A.103R">The Gaia-ESO Survey: metallicity and kinematic trends in the Milky Way 
 bulge</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Cantat-Gaudin, T., Vallenari, A., Zaggia, S., Bragaglia, A., Sordo, R., 
-=======
-*  <P>Cantat-Gaudin, T., Vallenari, A., Zaggia, S., Bragaglia, A., Sordo, R., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Drew, J. E., Eisloeffel, J., Farnhill, H. J., Gonzalez-Solares, E., 
 Greimel, R., Irwin, M. J., Kupcu-Yoldas, A., Jordi, C., Blomme, R., 
 Sampedro, L., Costado, M. T., Alfaro, E., Smiljanic, R., Magrini, L., 
@@ -1476,19 +840,11 @@ Jim&#233;nez-Esteban, F., Maiorca, E., Geisler, D., San Roman, I., Villanova,
 S., Gilmore, G., Randich, S., Bensby, T., Flaccomio, E., Lanzafame, A., 
 Recio-Blanco, A., Damiani, F., Hourihane, A., Jofr&#233;, P., de Laverny, P., 
 Masseron, T., Morbidelli, L., Prisinzano, L., Sacco, G. G., Sbordone, L., &amp; 
-<<<<<<< HEAD
 Worley, C. C. 2014,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...569A..17C">The Gaia-ESO Survey: 
 Stellar content and elemental abundances in the massive cluster NGC 6705</A> 
 
 
 1.  <P>Spina, L., Randich, S., Palla, F., Biazzo, K., Sacco, G. G., Alfaro, E. 
-=======
-Worley, C. C. 2014,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...569A..17C">The Gaia-ESO Survey: 
-Stellar content and elemental abundances in the massive cluster NGC 6705</A> 
-
-
-*  <P>Spina, L., Randich, S., Palla, F., Biazzo, K., Sacco, G. G., Alfaro, E. 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 J., Franciosini, E., Magrini, L., Morbidelli, L., Frasca, A., Adibekyan, 
 V., Delgado-Mena, E., Sousa, S. G., Gonz&#225;lez Hern&#225;ndez, J. I., Montes, D., 
 Tabernero, H., Tautvai&#353;ien&#279;, G., Bonito, R., Lanzafame, A. C., Gilmore, G., 
@@ -1496,38 +852,22 @@ Jeffries, R. D., Vallenari, A., Bensby, T., Bragaglia, A., Flaccomio, E.,
 Korn, A. J., Pancino, E., Recio-Blanco, A., Smiljanic, R., Bergemann, M., 
 Costado, M. T., Damiani, F., Hill, V., Hourihane, A., Jofr&#233;, P., de 
 Laverny, P., **Lardo, C.**, Masseron, T., Prisinzano, L., &amp; Worley, C. C. 2014,  
-<<<<<<< HEAD
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...568A...2S">The Gaia-ESO Survey: Metallicity of the 
 Chamaeleon I star-forming region</A> 
 
 
 1.  <P>Recio-Blanco, A., de Laverny, P., Kordopatis, G., Helmi, A., Hill, V., 
-=======
-Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...568A...2S">The Gaia-ESO Survey: Metallicity of the 
-Chamaeleon I star-forming region</A> 
-
-
-*  <P>Recio-Blanco, A., de Laverny, P., Kordopatis, G., Helmi, A., Hill, V., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Gilmore, G., Wyse, R., Adibekyan, V., Randich, S., Asplund, M., Feltzing, 
 S., Jeffries, R., Micela, G., Vallenari, A., Alfaro, E., Allende Prieto, 
 C., Bensby, T., Bragaglia, A., Flaccomio, E., Koposov, S. E., Korn, A., 
 Lanzafame, A., Pancino, E., Smiljanic, R., Jackson, R., Lewis, J., Magrini, 
 L., Morbidelli, L., Prisinzano, L., Sacco, G., Worley, C. C., Hourihane, 
 A., Bergemann, M., Costado, M. T., Heiter, U., Joffre, P., **Lardo, C.**, Lind, 
-<<<<<<< HEAD
 K., &amp; Maiorca, E. 2014,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...567A...5R">The Gaia-ESO Survey: 
 the Galactic thick to thin disc transition</A> 
 
 
 1.  <P>Sacco, G. G., Morbidelli, L., Franciosini, E., Maiorca, E., Randich, S., 
-=======
-K., &amp; Maiorca, E. 2014,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...567A...5R">The Gaia-ESO Survey: 
-the Galactic thick to thin disc transition</A> 
-
-
-*  <P>Sacco, G. G., Morbidelli, L., Franciosini, E., Maiorca, E., Randich, S., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Modigliani, A., Gilmore, G., Asplund, M., Binney, J., Bonifacio, P., Drew, 
 J., Feltzing, S., Ferguson, A., Jeffries, R., Micela, G., Negueruela, I., 
 Prusti, T., Rix, H.-W., Vallenari, A., Alfaro, E., Allende Prieto, C., 
@@ -1536,19 +876,11 @@ Francois, P., Hambly, N., Irwin, M., Koposov, S., Korn, A., Lanzafame, A.,
 Pancino, E., Recio-Blanco, A., Smiljanic, R., Van Eck, S., Walton, N., 
 Bergemann, M., Costado, M. T., de Laverny, P., Heiter, U., Hill, V., 
 Hourihane, A., Jackson, R., Jofre, P., Lewis, J., Lind, K., **Lardo, C.**, 
-<<<<<<< HEAD
 Magrini, L., Masseron, T., Prisinzano, L., &amp; Worley, C. 2014,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...565A.113S">The Gaia-ESO Survey: processing FLAMES-UVES spectra</A> 
 
 
 1.  <P>Bergemann, M., Ruchti, G. R., Serenelli, A., Feltzing, S., Alves-Brito, 
-=======
-Magrini, L., Masseron, T., Prisinzano, L., &amp; Worley, C. 2014,  Astronomy 
-and Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...565A.113S">The Gaia-ESO Survey: processing FLAMES-UVES spectra</A> 
-
-
-*  <P>Bergemann, M., Ruchti, G. R., Serenelli, A., Feltzing, S., Alves-Brito, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 A., Asplund, M., Bensby, T., Gruyters, P., Heiter, U., Hourihane, A., Korn, 
 A., Lind, K., Marino, A., Jofre, P., Nordlander, T., Ryde, N., Worley, C. 
 C., Gilmore, G., Randich, S., Ferguson, A. M. N., Jeffries, R. D., Micela, 
@@ -1557,20 +889,12 @@ Allende Prieto, C., Bragaglia, A., Koposov, S. E., Lanzafame, A. C.,
 Pancino, E., Recio-Blanco, A., Smiljanic, R., Walton, N., Costado, M. T., 
 Franciosini, E., Hill, V., **Lardo, C.**, de Laverny, P., Magrini, L., Maiorca, 
 E., Masseron, T., Morbidelli, L., Sacco, G., Kordopatis, G., &amp; 
-<<<<<<< HEAD
 Tautvai&#353;ien&#279;, G. 2014,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...565A..89B">The Gaia-ESO Survey: 
-=======
-Tautvai&#353;ien&#279;, G. 2014,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...565A..89B">The Gaia-ESO Survey: 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 radial metallicity gradients and age-metallicity relation of stars in the 
 Milky Way disk</A> 
 
 
-<<<<<<< HEAD
 1.  <P>Magrini, L., Randich, S., Romano, D., Friel, E., Bragaglia, A., Smiljanic, 
-=======
-*  <P>Magrini, L., Randich, S., Romano, D., Friel, E., Bragaglia, A., Smiljanic, 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 R., Jacobson, H., Vallenari, A., Tosi, M., Spina, L., Donati, P., Maiorca, 
 E., Cantat-Gaudin, T., Sordo, R., Bergemann, M., Damiani, F., Tautvai&#353;ien&#279;, 
 G., Blanco-Cuaresma, S., Jim&#233;nez-Esteban, F., Geisler, D., Mowlavi, N., 
@@ -1579,32 +903,19 @@ G., Asplund, M., Feltzing, S., Jeffries, R., Bensby, T., Koposov, S., Korn,
 A. J., Flaccomio, E., Pancino, E., Recio-Blanco, A., Sacco, G., Costado, M. 
 T., Franciosini, E., Jofre, P., de Laverny, P., Hill, V., Heiter, U., 
 Hourihane, A., Jackson, R., **Lardo, C.**, Morbidelli, L., Lewis, J., Lind, K., 
-<<<<<<< HEAD
 Masseron, T., Prisinzano, L., &amp; Worley, C. 2014,  
 *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...563A..44M">The Gaia-ESO Survey: Abundance ratios in the inner-disk open 
 clusters Trumpler 20, NGC 4815, NGC 6705</A> 
 
 
 1.  <P>Donati, P., Cantat Gaudin, T., Bragaglia, A., Friel, E., Magrini, L., 
-=======
-Masseron, T., Prisinzano, L., &amp; Worley, C. 2014,  Astronomy and 
-Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...563A..44M">The Gaia-ESO Survey: Abundance ratios in the inner-disk open 
-clusters Trumpler 20, NGC 4815, NGC 6705</A> 
-
-
-*  <P>Donati, P., Cantat Gaudin, T., Bragaglia, A., Friel, E., Magrini, L., 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 Smiljanic, R., Vallenari, A., Tosi, M., Sordo, R., Tautvai&#353;ien&#279;, G., 
 Blanco-Cuaresma, S., Costado, M. T., Geisler, D., Klutsch, A., Mowlavi, N., 
 Mu&#241;oz, C., San Roman, I., Zaggia, S., Gilmore, G., Randich, S., Bensby, T., 
 Flaccomio, E., Koposov, S. E., Korn, A. J., Pancino, E., Recio-Blanco, A., 
 Franciosini, E., de Laverny, P., Lewis, J., Morbidelli, L., Prisinzano, L., 
 Sacco, G., Worley, C. C., Hourihane, A., Jofr&#233;, P., **Lardo, C.**, &amp; Maiorca, 
-<<<<<<< HEAD
 E. 2014,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...561A..94D">The Gaia-ESO Survey: Reevaluation of 
-=======
-E. 2014,  Astronomy and Astrophysics <A href="http://adsabs.harvard.edu/abs/2014A%26A...561A..94D">The Gaia-ESO Survey: Reevaluation of 
->>>>>>> 8ce4866e40fec0e6cf443d7276e1974f7e1fc263
 the parameters of the open cluster Trumpler 20 using photometry and 
 spectroscopy</A> 
 
