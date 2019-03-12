@@ -47,7 +47,7 @@ The main goal of the [**Gaia**](http://sci.esa.int/gaia/) mission is to depict a
 
 <center><img src="images/gaia.pdf" width="350px"  style="margin:20px 20px"></center>
 
-For the past five year, I was involved in the calibration of the Gaia-ESO products. Calibrations are critical for large surveys like Gaia-ESO, where a wide variety of stellar populations are considered and results from several different analysis techniques are considered. \
+For the past five year, I was involved in the calibration of the Gaia-ESO products. Calibrations are critical for large surveys like Gaia-ESO, where a wide variety of stellar populations are considered and results from several different analysis techniques are considered.
 
 
 
