@@ -7,8 +7,9 @@ title: 'Publication List'
 An up-to-date list of my published papers can be found on ADS sorted by [year](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fl=title%2Cabstract%2Cbibcode%2Cauthor%2Ckeyword%2Cid%2Clinks_data%2Cproperty%2Cesources%2Cdata%2Ccitation_count%2C%5Bcitations%5D%2Cpub%2Caff%2Cemail%2Cvolume%2Cpubdate%2Cdoi%2Cdoctype&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=lardo&rows=25&sort=date%20desc%2C%20bibcode%20desc&start=0&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored&p_=0) or [citations](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=lardo&sort=citation_count%20desc%2C%20bibcode%20desc&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored&p_=0).
 
 
-Since 2011 I have been an author on 94 refereed publications, 11 as first author. As of around March 12, 2019, my publications had  2400 citations and my *h*-index was 29, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22lardo%22)&sort=date%20desc%2C%20bibcode%20desc&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored/metrics)).
-
+<div class="alert alert-warning" role="alert"><i class="fa fa-warning"></i>
+Since 2011 I have been an author on 94 refereed publications, 11 as first author. As of around March 12, 2019, my publications had  ~2400 citations and my *h*-index was 29, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22lardo%22)&sort=date%20desc%2C%20bibcode%20desc&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored/metrics)).
+</div>
 
 #### First author papers
 
@@ -126,9 +127,11 @@ S. S., &amp; Hernandez, S. 2016,
 Lanzoni, B., Massari, D., Stetson, P. B., Cassisi, S., &amp; Savino, A. 2016, *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2016ApJ...826L...1L">Lost and Found: Evidence of Second-generation 
 Stars Along the Asymptotic Giant Branch of the Globular Cluster NGC 6752</A> 
 
-1. <P>Bastian, Nate &amp; **Lardo, Carmela** 2015,  Monthly Notices of the Royal 
-Astronomical Society <A href="http://adsabs.harvard.edu/abs/2015MNRAS.453..357B">Globular cluster mass-loss in the context of multiple 
+1. <P>Bastian, Nate &amp; **Lardo, Carmela** 2015,  *Monthly Notices of the Royal 
+Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2015MNRAS.453..357B">Globular cluster mass-loss in the context of multiple 
 populations</A> 
+
+
 
 
 
@@ -156,7 +159,7 @@ Globular Cluster NGC 6752</A>
 
 
 1. <P>Starkenburg, Else, Aguado, David S., Bonifacio, Piercarlo, Caffau, 
-Elisabetta, Jablonka, Pascale, Lardo, Carmela, Martin, Nicolas, 
+Elisabetta, Jablonka, Pascale, **Lardo, Carmela**, Martin, Nicolas, 
 S&#225;nchez-Janssen, Rub&#233;n, Sestito, Federico, Venn, Kim A., Youakim, Kris, 
 Allende Prieto, Carlos, Arentsen, Anke, Gentile, Marc, Gonz&#225;lez Hern&#225;ndez, 
 Jonay I., Kielty, Collin, Koppelman, Helmer H., Longeard, Nicolas, Tolstoy, 
@@ -246,6 +249,21 @@ Populations</A>
 Ferraro, F. R., Lanzoni, B., &amp; **Lardo, C.** 2015,  *The Astrophysical Journal* 
 <A href="http://adsabs.harvard.edu/abs/2015ApJ...809..128M">A Chemical Trompe-L'oeil: No Iron Spread in the Globular Cluster M22</A> 
 
+1. <P>Jofr&#233;, P., Heiter, U., Soubiran, C., Blanco-Cuaresma, S., Masseron, T., 
+Nordlander, T., Chemin, L., Worley, C. C., Van Eck, S., Hourihane, A., 
+Gilmore, G., Adibekyan, V., Bergemann, M., Cantat-Gaudin, T., Delgado-Mena, 
+E., Gonz&#225;lez Hern&#225;ndez, J. I., Guiglion, G., **Lardo, C.**, de Laverny, P., 
+Lind, K., Magrini, L., Mikolaitis, S., Montes, D., Pancino, E., 
+Recio-Blanco, A., Sordo, R., Sousa, S., Tabernero, H. M., &amp; Vallenari, A. 
+2015,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...582A..81J">Gaia FGK benchmark stars: abundances of 
+&#945; and iron-peak elements</A>
+
+1. <P>Jofr&#233;, P., Heiter, U., Soubiran, C., Blanco-Cuaresma, S., Worley, C. C., 
+Pancino, E., Cantat-Gaudin, T., Magrini, L., Bergemann, M., Gonz&#225;lez 
+Hern&#225;ndez, J. I., Hill, V.,  **Lardo, C.**, de Laverny, P., Lind, K., Masseron, 
+T., Montes, D., Mucciarelli, A., Nordlander, T., Recio Blanco, A., Sobeck, 
+J., Sordo, R., Sousa, S. G., Tabernero, H., Vallenari, A., &amp; Van Eck, S. 
+2014,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2014A%26A...564A.133J">Gaia FGK benchmark stars: Metallicity</A> 
 
 
 
@@ -659,8 +677,7 @@ E., Pancino, E., Korn, A. J., Recio-Blanco, A., Bayo, A., Carraro, G.,
 Costado, M. T., Damiani, F., Heiter, U., Hourihane, A., Jofr&#233;, P., 
 Kordopatis, G., **Lardo, C.**, de Laverny, P., Monaco, L., Morbidelli, L., 
 Sbordone, L., Worley, C. C., &amp; Zaggia, S. 2015,  
-*Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2015MNRAS.450.2874R">The Gaia-ESO Survey: a quiescent Milky Way with 
-no significant dark/stellar accreted disc</A> 
+*Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2015MNRAS.450.2874R">The Gaia-ESO Survey: a quiescent Milky Way with no significant dark/stellar accreted disc</A> 
 
 
 1.  <P>San Roman, I., Mu&#241;oz, C., Geisler, D., Villanova, S., Kacharov, N., Koch, 
