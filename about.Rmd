@@ -27,23 +27,18 @@ The origin of this phenomenon is arguably the largest open question within the G
 
 **Some Selected Publications:**
 
-* <P>Bastian, N. &amp; **Lardo, C.** 2018, *Annual Review of Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2018ARA%26A..56...83B">Multiple Stellar Populations in Globular Clusters</A> 
+* <P>Bastian, N. &amp; **Lardo, C.**,<A href="http://adsabs.harvard.edu/abs/2018ARA%26A..56...83B"> 2018 ARA&A..56...83B</A> 
 
-* <P> **Lardo, C.**, Salaris, M., Bastian, N., Mucciarelli, A., Dalessandro, E., &amp; 
-Cabrera-Ziri, I. 2018,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2018A%26A...616A.168L">Chemical 
-inhomogeneities amongst first population stars in globular clusters. 
-Evidence for He variations</A> 
+* <P> **Lardo, C.**, et al., <A href="http://adsabs.harvard.edu/abs/2018A%26A...616A.168L"> 2018A&A...616A.168L</A> 
 
-* <P> **Lardo, C.**, Cabrera-Ziri, I., Davies, B., &amp; Bastian, N. 2017, *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2017MNRAS.468.2482L">Searching for globular cluster-like abundance patterns in young massive clusters - II. Results 
-from the Antennae galaxies</A> 
+* <P> **Lardo, C.**, et al., <A href="http://adsabs.harvard.edu/abs/2017MNRAS.468.2482L"> 2017MNRAS.468.2482L</A> 
 
-* <P> **Lardo, C.**, Mucciarelli, A., &amp; Bastian, N. 2016,  *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2016MNRAS.457...51L">The iron dispersion of the globular cluster M2, revised</A> 
+* <P> **Lardo, C.**, et al, <A href="http://adsabs.harvard.edu/abs/2016MNRAS.457...51L"> 2016MNRAS.457...51L</A> 
 
-* <P>Bastian, N. &amp; **Lardo, C.** 2015,  *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2015MNRAS.453..357B">Globular cluster mass-loss in the context of multiple populations</A> 
+* <P>Bastian, N. &amp; **Lardo, C.**, <A href="http://adsabs.harvard.edu/abs/2015MNRAS.453..357B">2015MNRAS.453..357B</A> 
 
-* <P> **Lardo, C.**, Bellazzini, M., Pancino, E., Carretta, E., Bragaglia, A., &amp; 
-Dalessandro, E. 2011,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2011A%26A...525A.114L">Mining SDSS in search of 
-multiple populations in globular clusters</A> 
+* <P> **Lardo, C.** et al, 
+<A href="http://adsabs.harvard.edu/abs/2011A%26A...525A.114L">2011A&A...525A.114L</A> 
 </div>
 </div>
 
@@ -75,15 +70,7 @@ The photometric survey *Pristine* has been especially designed to identify EMPs 
 <div class="alert alert-info">
 **Some Selected Publications:**
 
-* <P>Starkenburg, E., Aguado, D. S., Bonifacio, P., Caffau, 
-E., Jablonka, P., **Lardo, C.**, Martin, N., 
-S&#225;nchez-Janssen, R., Sestito, F., Venn, K. A., Youakim, K., 
-Allende Prieto, C., Arentsen, A., Gentile, M., Gonz&#225;lez Hern&#225;ndez, 
-J. I., Kielty, C., Koppelman, H. H., Longeard, N., Tolstoy, 
-E., Carlberg, R. G., C&#244;t&#233;, P., Fouesneau, M., Hill, 
-V., McConnachie, A. W., &amp; Navarro, J. F. 2018,  
-*Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2018MNRAS.481.3838S">The Pristine survey IV: approaching the 
-Galactic metallicity floor with the discovery of an ultra-metal-poor star</A> 
+* <P>Starkenburg, E. et al. <A href="http://adsabs.harvard.edu/abs/2018MNRAS.481.3838S"> 2018MNRAS.481.3838S</A> 
 </div>
 
 ******
@@ -102,13 +89,9 @@ For the past five year, I was involved in the calibration of the Gaia-ESO spectr
 <div class="alert alert-info">
 **Some Selected Publications:**
 
-* <P>**Lardo, C.**, Pancino, E., Bellazzini, M., Bragaglia, A., Donati, P., 
-Gilmore, G., Randich, S., Feltzing, S., et al. 2015, *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A.115L">The Gaia-ESO Survey: Kinematics of seven Galactic globular 
-clusters</A> 
+* <P>**Lardo, C.**, et al., <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A.115L">2015A&A...573A.115L</A> 
 
-* <P>Pancino, E., **Lardo, C.**, Altavilla, G., Marinoni, S., Ragaini, S., Cocozza, 
-et al. 2017,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2017A%26A...598A...5P">The Gaia-ESO Survey: 
-Calibration strategy</A> 
+* <P>Pancino, E., **Lardo, C.**, et al.,<A href="http://adsabs.harvard.edu/abs/2017A%26A...598A...5P"> 2017A&A...598A...5P</A> 
 
 </div>
 
@@ -134,16 +117,13 @@ In Lardo et al. (2015, 2017b) we directly measured abundances in three SSCs loca
 
 **Some Selected Publications:**
 
-* <P>**Lardo, C.**, Davies, B., Kudritzki, R.-P., Gazak, J. Z., Evans, C. J., 
-Patrick, L. R., Bergemann, M., &amp; Plez, B. 2015,  *The Astrophysical Journal* 
-<A href="http://adsabs.harvard.edu/abs/2015ApJ...812..160L">Red Supergiants as Cosmic Abundance Probes: The First Direct Metallicity 
-Determination of NGC 4038 in the Antennae</A>
+* <P>**Lardo, C.**, et al. 2015, 
+<A href="http://adsabs.harvard.edu/abs/2015ApJ...812..160L">
+2015ApJ...812..160L</A>
 
 
-* <P>Davies, B., Kudritzki, R.-P., **Lardo, C.**, Bergemann, M., 
-Beasor, E., Plez, B., Evans, ., Bastian, N., &amp; Patrick, L. 
-R. 2017,  *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">Red Supergiants as Cosmic Abundance 
-Probes: Massive Star Clusters in M83 and the Mass-Metallicity Relation of 
-Nearby Galaxies</A> 
+* <P>Davies, B., et al. 2017, 
+<A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">
+2017ApJ...847..112D</A> 
 </div>
 </div>
