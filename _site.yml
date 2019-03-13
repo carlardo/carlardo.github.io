@@ -32,6 +32,6 @@ output:
     theme: lumen
     css: 'styles.css'
     includes:
-       in_header: goog.html
+       in_header: GA_script.html
        
        
