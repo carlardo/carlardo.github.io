@@ -22,9 +22,7 @@ The origin of this phenomenon is arguably the largest open question within the G
 
 
 
-<div class="container">
-<div class="alert alert-info display: inline-block">
-
+<div class="alert alert-info" style="width: 55%;" role="alert">
 **Some Selected Publications:**
 
 * <P>Bastian, N. &amp; **Lardo, C.**,<A href="http://adsabs.harvard.edu/abs/2018ARA%26A..56...83B"> 2018 ARA&A..56...83B</A> 
@@ -40,7 +38,7 @@ The origin of this phenomenon is arguably the largest open question within the G
 * <P> **Lardo, C.** et al, 
 <A href="http://adsabs.harvard.edu/abs/2011A%26A...525A.114L">2011A&A...525A.114L</A> 
 </div>
-</div>
+
 
 
 ******
@@ -100,7 +98,7 @@ For the past five year, I was involved in the calibration of the Gaia-ESO spectr
 
 ####**Quantitative near-IR spectroscopy out to the Mpc distances**
 
-<img src="images/rsgs.pdf" style="width:50%;  margin:20px 20px"" align="left">
+<img src="images/rsgs.pdf" style="width:47%;  margin:10px 10px"" align="right">
 
 Most of our information about the metallicity in distant galaxies relies on the analysis of strong HII-region emission lines. However, such an analysis is known to be subject
 to large systematic errors (e.g., > 0.5 dex depending on the calibration used) that need to be better understood and quantified.
@@ -112,18 +110,15 @@ This technique has also been successfully applied to unresolved young (10-100 My
 In Lardo et al. (2015, 2017b) we directly measured abundances in three SSCs located at more than 20 Mpc from us in the Antennae galaxies. Compiling this study with other recent work (Davies et al., 2017) we constructed a mass-metallicity relation for nearby galaxies based entirely on individual stars (i.e. not relying on nebular emission lines), providing the benchmark against which all future extragalactic abundance work can be calibrated.
 
 
-<div class="container">
-<div class="alert alert-info display: inline-block">
+<div class="alert alert-info" style="width: 45%;" role="alert">
 
 **Some Selected Publications:**
 
-* <P>**Lardo, C.**, et al. 2015, 
+* <P>**Lardo, C.**, et al.,
 <A href="http://adsabs.harvard.edu/abs/2015ApJ...812..160L">
 2015ApJ...812..160L</A>
 
 
-* <P>Davies, B., et al. 2017, 
-<A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">
+* <P>Davies, B., et al., <A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">
 2017ApJ...847..112D</A> 
-</div>
 </div>
