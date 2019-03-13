@@ -8,6 +8,9 @@ My research interests cover a wide range of topics in the fields of galaxy forma
 
 #### **The Mystery of the Multiple Populations in Stellar Clusters**
 
+.alert-trim {
+  display: inline-block;
+}
 
 
 <img src="images/mappe.pdf" style="width:30%;  margin:10px 10px" align="right">
@@ -19,7 +22,7 @@ The origin of this phenomenon is arguably the largest open question within the G
 **A critical discussion of the state-of-the-art of the MP studies can be found in the review ["Multiple Stellar Populations in Globular Clusters"](http://adsabs.harvard.edu/abs/2018ARA%26A..56...83B) that appeared in Volume 56 of Annual Reviews of Astronomy & Astrophysics (Bastian and Lardo, 2018).**
 
 
-<div class="alert alert-info" style="width:40%;" role="alert">
+<div class="alert alert-info alert-trim">
 
 **Some Selected Publications:**
 
