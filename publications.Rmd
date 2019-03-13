@@ -1,14 +1,14 @@
 ---
-title: 'Publication List'
+title: "Publication List"
 ---
 
 
 
-An up-to-date list of my published papers can be found on ADS sorted by [year](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fl=title%2Cabstract%2Cbibcode%2Cauthor%2Ckeyword%2Cid%2Clinks_data%2Cproperty%2Cesources%2Cdata%2Ccitation_count%2C%5Bcitations%5D%2Cpub%2Caff%2Cemail%2Cvolume%2Cpubdate%2Cdoi%2Cdoctype&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=lardo&rows=25&sort=date%20desc%2C%20bibcode%20desc&start=0&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored&p_=0) or [citations](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=lardo&sort=citation_count%20desc%2C%20bibcode%20desc&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored&p_=0).
+An up-to-date list of my published papers can be found on ADS sorted by [year](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0) or [citations](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=citation_count%20desc%2C%20bibcode%20desc&p_=0).
 
 
 <div class="alert alert-warning" role="alert"><i class="fa fa-warning"></i>
-Since 2011 I have been an author on 94 refereed publications, 11 as first author. As of around March 12, 2019, my publications had  ~2400 citations and my *h*-index was 29, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu//#search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22lardo%22)&sort=date%20desc%2C%20bibcode%20desc&warning_message=when%20the%20astronomy%20or%20physics%20databases%20are%20selected%2C%20the%20arXiv%20selection%20is%20ignored/metrics)).
+Since 2011 I have been an author on 99 refereed publications, 11 as first author. As of around October 14, 2019, my publications had  ~2800 citations and my *h*-index was 31, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc/metrics)).
 </div>
 
 #### First author papers
@@ -84,7 +84,7 @@ Dalessandro, E. 2011,  *Astronomy and Astrophysics* <A href="http://adsabs.harva
 multiple populations in globular clusters</A> 
 
 #### Second author papers
-1. <P>Cabrera-Ziri, I., **Lardo, C.**, Mucciarelli, A. 2019, *Monthly Notices of the Royal Astronomical Society (in press)*  <A href="https://arxiv.org/abs/1903.03621">Constant light element abundances suggest that the extended P1 in NGC 2808 is not a consequence of CNO-cycle nucleosynthesis</A>
+1. <P>Cabrera-Ziri, I., **Lardo, C.**, Mucciarelli, A. 2019, *Monthly Notices of the Royal Astronomical Society*  <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.4128C/abstract">Constant light element abundances suggest that the extended P1 in NGC 2808 is not a consequence of CNO-cycle nucleosynthesis</A>
 
 1. <P>Dalessandro, E., **Lardo, C.**, Cadelano, M., Saracino, S., Bastian, N., 
 Mucciarelli, A., Salaris, M., Stetson, P., &amp; Pancino, E. 2018,  
@@ -92,7 +92,7 @@ Mucciarelli, A., Salaris, M., Stetson, P., &amp; Pancino, E. 2018,
 light-element variations</A> 
 
 
-1. <P>Bastian, Nate &amp; **Lardo, Carmela** 2018,  
+1. <P>Bastian, N. &amp; **Lardo, C.** 2018,  
 *Annual Review of Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2018ARA%26A..56...83B">Multiple Stellar Populations in Globular Clusters</A> 
 
 
@@ -127,7 +127,7 @@ S. S., &amp; Hernandez, S. 2016,
 Lanzoni, B., Massari, D., Stetson, P. B., Cassisi, S., &amp; Savino, A. 2016, *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2016ApJ...826L...1L">Lost and Found: Evidence of Second-generation 
 Stars Along the Asymptotic Giant Branch of the Globular Cluster NGC 6752</A> 
 
-1. <P>Bastian, Nate &amp; **Lardo, Carmela** 2015,  *Monthly Notices of the Royal 
+1. <P>Bastian, N. &amp; **Lardo, C.** 2015,  *Monthly Notices of the Royal 
 Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2015MNRAS.453..357B">Globular cluster mass-loss in the context of multiple 
 populations</A> 
 
@@ -136,11 +136,32 @@ populations</A>
 
 
 ####Co-authored papers
+1. <P>Bastian, N., Usher, C., Kamann, S., **Lardo, C.**,  Larsen, S., Cabrera-Ziri, I.,
+Chantereau, W., Martocchia, S., Salaris, M., Schiavon, R. P., Asa'd, R., &amp; Hilker, M.,2019,
+*Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489L..80B">Multiple populations in integrated light spectroscopy of intermediate-age clusters</A> 
+
+1. <P>Saracino, S., Bastian, N., Kozhurina-Platais, V., Cabrera-Ziri, I., Dalessandro, E., Kacharov, N., **Lardo, C.**, Larsen, S. S., Mucciarelli, A., Platais, I., Salaris, M. 2019 
+*Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489L..97S">An extragalactic chromosome map: the intermediate-age SMC cluster Lindsay 1</A> 
+
+
+
+1. <P>Aguado, D. S., Youakim, K., Gonz&#225;lez Hern&#225;ndez, J. Allende Prieto, C., Starkenburg, E., Martin, N., Bonifacio, P., Arentsen, A., Caffau, E., Peralta de Arriba, L., Sestito, F., Garcia-Diaz, R. Fantin, N., Hill, V., Jablonka, P., Jahandar, F., Kielty, K., Longeard , N., Lucchesi, R., 
+S&#225;nchez-Janssen, R., Osorio, Y., Palicio, P. A., Tolstoy, E., Wilson, T. G.,C&#244;t&#233, P.,
+Kordopatis, G., **Lardo, C.**, Navarro, J. F., Thomas, G. F., Venn, K.,2019,
+*Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.tmp.2271A">The Pristine Survey - VI. The first three years of medium-resolution follow-up spectroscopy of Pristine EMP star candidates</A> 
+
+
+1. <P>Martocchia, S., Dalessandro, E.,**Lardo, C.**, Cabrera-Ziri, I., Bastian, N., Kozhurina-Platais, V., Salaris, M., Chantereau, W., Geisler, D., Hilker, M., Kacharov, N., Larsen, S., Mucciarelli, A.; Niederhofer, F., Platais, I., Usher, C. 2019 *Monthly Notices of the Royal Astronomical Society*
+<A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.5324M">The search for multiple populations in Magellanic Clouds clusters - V. Correlation between cluster age and abundance spreads</A> 
+
+
+1. <P>Bonifacio, P., Caffau, E., Sestito, F., **Lardo, C.**, Martin, N. F., Starkenburg, E., Sbordone, L., Fran??ois, P., Jablonka, P., Henden, A. A., Salvadori, S., Gonz&#225;lez Hern&#225;ndez, J. I., Aguado, D. S.; Hill, V., Venn, K., Navarro, J. F., Arentsen, A., S&#225;nchez-Janssen, R., Carlberg, R., 2019 *Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3797B">The Pristine survey - V. A bright star sample observed with SOPHIE</A> 
+
 
 
 1. <P>Hollyhead, K., Martocchia, S., **Lardo, C.**, Bastian, N., Kacharov, N., 
 Niederhofer, F., Cabrera-Ziri, I., Dalessandro, E., Mucciarelli, A., 
-Salaris, M., &amp; Usher, C. 2019,  
+Salaris, M., Usher, C. 2019,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2019MNRAS.484.4718H">Spectroscopic detection of multiple populations in the &#732;2 Gyr old 
 cluster Hodge 6 in the LMC</A> 
 
@@ -158,13 +179,13 @@ Second-population Stars and the Iron Discrepancy along the AGB of the
 Globular Cluster NGC 6752</A> 
 
 
-1. <P>Starkenburg, Else, Aguado, David S., Bonifacio, Piercarlo, Caffau, 
-Elisabetta, Jablonka, Pascale, **Lardo, Carmela**, Martin, Nicolas, 
-S&#225;nchez-Janssen, Rub&#233;n, Sestito, Federico, Venn, Kim A., Youakim, Kris, 
-Allende Prieto, Carlos, Arentsen, Anke, Gentile, Marc, Gonz&#225;lez Hern&#225;ndez, 
-Jonay I., Kielty, Collin, Koppelman, Helmer H., Longeard, Nicolas, Tolstoy, 
-Eline, Carlberg, Raymond G., C&#244;t&#233;, Patrick, Fouesneau, Morgan, Hill, 
-Vanessa, McConnachie, Alan W., &amp; Navarro, Julio F. 2018,  
+1. <P>Starkenburg, E., Aguado, David S., Bonifacio, P., Caffau, 
+E., Jablonka, P., **Lardo, C.**, Martin, N., 
+S&#225;nchez-Janssen, R., Sestito, F., Venn, K.A., Youakim, K., 
+Allende Prieto, C., Arentsen, A., Gentile, M., Gonz&#225;lez Hern&#225;ndez, 
+J. I., Kielty, C., Koppelman, H. H., Longeard, N., Tolstoy, 
+E., Carlberg, R. G., C&#244;t&#233;, P., Fouesneau, M., Hill, 
+V., McConnachie, A. W., &amp; Navarro, J. F. 2018,  
 *Monthly Notices of the Royal Astronomical Society* <A href="http://adsabs.harvard.edu/abs/2018MNRAS.481.3838S">The Pristine survey IV: approaching the 
 Galactic metallicity floor with the discovery of an ultra-metal-poor star</A> 
 
@@ -187,8 +208,8 @@ multiple populations in stellar clusters</A>
 
 
 
-1. <P>Davies, Ben, Kudritzki, Rolf-Peter, **Lardo, Carmela**, Bergemann, Maria, 
-Beasor, Emma, Plez, Bertrand, Evans, Chris, Bastian, Nate, &amp; Patrick, Lee 
+1. <P>Davies, B., Kudritzki, R.-P., **Lardo, C.**, Bergemann, M., 
+Beasor, E., Plez, B., Evans, C.s, Bastian, N., &amp; Patrick, L. 
 R. 2017,  *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">Red Supergiants as Cosmic Abundance 
 Probes: Massive Star Clusters in M83 and the Mass-Metallicity Relation of 
 Nearby Galaxies</A> 
@@ -237,9 +258,9 @@ NGC 121</A>
 
 
 
-1. <P>Mucciarelli, Alessio, Dalessandro, Emanuele, Massari, Davide, Bellazzini, 
-Michele, Ferraro, Francesco R., Lanzoni, Barbara, **Lardo, Carmela**, Salaris, 
-Maurizio, &amp; Cassisi, Santi 2016,  *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2016ApJ...824...73M">NGC 6362: The 
+1. <P>Mucciarelli, A., Dalessandro, E., Massari, D., Bellazzini, 
+M., Ferraro, F. R., Lanzoni, B., **Lardo, Carmela**, Salaris, 
+M., &amp; Cassisi, S. 2016,  *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2016ApJ...824...73M">NGC 6362: The 
 Least Massive Globular Cluster with Chemically Distinct Multiple 
 Populations</A> 
 

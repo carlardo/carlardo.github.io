@@ -1,5 +1,6 @@
 ---
 title: "Research"
+output: pdf_document
 ---
 
 My research interests cover a wide range of topics in the fields of galaxy formation, stellar evolution, stellar spectroscopy, and stellar populations.
@@ -44,14 +45,14 @@ The origin of this phenomenon is arguably the largest open question within the G
 ******
 ####**Near-field cosmology with extremely metal-poor stars**
 
-Long-lived extremely metal-poor (EMP, with [Fe/H]≤ –3) stars in the Local Group allow to investigate the initial stages of the cosmic history in great detail. 
+Long-lived extremely metal-poor (EMP, with [Fe/H]??? ???3) stars in the Local Group allow to investigate the initial stages of the cosmic history in great detail. 
 Indeed, they represent reachable probes of first stages of the enrichment of the primordial Universe, complementing direct studies of high-redshift galaxies.
 
 <img src="images/pristine221.pdf" style="width:55%;  margin:10px 10px" align="left">
 
 
-In a typical high latitude field, only one in ∼ 80, 000 stars has [Fe/H]≤ -4 dex (Youakim et al., 2017) and less than 20 stars with [Fe/H] ≤ – 4.5 dex are known (Christlieb et al., 2002; Frebel et al., 2005; Caffau et al., 2011; Keller et al., 2014; Bonifacio et al., 2015; Aguado et al., 2018a,b).
-The photometric survey *Pristine* has been especially designed to identify EMPs in a efficient manner (Starkenburg et al., 2017). Pristine builds on the combination of the CaH&K filter and the wide field of MegaCam at CFHT, to. yield a pre-selection of EMPs that is ∼5 times better than previous surveys. Low- and high-resolution spectroscopic follow-ups of selected metal-poor stars are then parformed to accomplish the full potential of *Pristine*. On low-resolution spectrographs, large numbers of stars can be quickly surveyed and Fe and C abundances measured. The most promising candidates with [Fe/H] < –3 are selected to be observed with high-resolution spectrographs to study their detailed abundance patterns. 
+In a typical high latitude field, only one in ??? 80, 000 stars has [Fe/H]??? -4 dex (Youakim et al., 2017) and less than 20 stars with [Fe/H] ??? ??? 4.5 dex are known (Christlieb et al., 2002; Frebel et al., 2005; Caffau et al., 2011; Keller et al., 2014; Bonifacio et al., 2015; Aguado et al., 2018a,b).
+The photometric survey *Pristine* has been especially designed to identify EMPs in a efficient manner (Starkenburg et al., 2017). Pristine builds on the combination of the CaH&K filter and the wide field of MegaCam at CFHT, to. yield a pre-selection of EMPs that is ???5 times better than previous surveys. Low- and high-resolution spectroscopic follow-ups of selected metal-poor stars are then parformed to accomplish the full potential of *Pristine*. On low-resolution spectrographs, large numbers of stars can be quickly surveyed and Fe and C abundances measured. The most promising candidates with [Fe/H] < ???3 are selected to be observed with high-resolution spectrographs to study their detailed abundance patterns. 
 
 
 
@@ -59,7 +60,7 @@ The photometric survey *Pristine* has been especially designed to identify EMPs 
 
 
 **IN THE PRESS:**<br/>
-[École Polytechnique Fédérale de Lausanne;](https://actu.epfl.ch/news/a-rare-star-opens-a-window-on-the-beginning-of-time)
+[??cole Polytechnique F??d??rale de Lausanne;](https://actu.epfl.ch/news/a-rare-star-opens-a-window-on-the-beginning-of-time)
 [Leibniz Institute for Astrophysics Potsdam;](http://www.aip.de/en/news/science/journey-to-the-beginning-of-time)
  [University of Victoria;](https://www.uvic.ca/future-students/home/campus-news/2018+galactic-archaeology-kim-venn+media-release)
  [Observatoire de Paris.](https://www.obspm.fr/discovery-of-a-second-non.html?lang=fr)
@@ -77,7 +78,7 @@ The photometric survey *Pristine* has been especially designed to identify EMPs 
 
 <img src="images/gaia.pdf" style="width:45%;  margin:10px 10px" align="left">
 The main goal of the [**Gaia**](http://sci.esa.int/gaia/) space mission is to depict a position and space velocity map of the Galaxy, by surveying more than one billion stars in the Milky Way.
-While Gaia will provide radial velocities, the magnitude limit is much brighter than that of the astrometry and the precision is much below that of proper motions. The [**Gaia-ESO survey**](https://www.gaia-eso.eu) (e.g. Gilmore et al., 2012) completes the information provided by Gaia yielding radial velocities and stellar abundances for stars that are too faint for Gaia’s spectrometer.
+While Gaia will provide radial velocities, the magnitude limit is much brighter than that of the astrometry and the precision is much below that of proper motions. The [**Gaia-ESO survey**](https://www.gaia-eso.eu) (e.g. Gilmore et al., 2012) completes the information provided by Gaia yielding radial velocities and stellar abundances for stars that are too faint for Gaia???s spectrometer.
 
 
 
@@ -106,7 +107,7 @@ to large systematic errors (e.g., > 0.5 dex depending on the calibration used) t
 
 
 The J-band technique allows to avoid such systematic issues by performing low-resolution spectroscopy in the near-IR of bright red supergiant stars (e.g. Davies et al., 2010). 
-This technique has also been successfully applied to unresolved young (10-100 Myr) massive (>10^5^M⊙) super-star clusters (SSCs), for which the integrated J-band light is dominated by RSGs.
+This technique has also been successfully applied to unresolved young (10-100 Myr) massive (>10^5^M???) super-star clusters (SSCs), for which the integrated J-band light is dominated by RSGs.
 In Lardo et al. (2015, 2017b) we directly measured abundances in three SSCs located at more than 20 Mpc from us in the Antennae galaxies. Compiling this study with other recent work (Davies et al., 2017) we constructed a mass-metallicity relation for nearby galaxies based entirely on individual stars (i.e. not relying on nebular emission lines), providing the benchmark against which all future extragalactic abundance work can be calibrated.
 
 
