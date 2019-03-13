@@ -4,6 +4,7 @@ title: ' Welcome to my website! '
 
 
 
+
 Stellar populations contain essential information on the formation and evolution of galaxies. 
 Indeed, we are able to trace the evolution of galaxies back to their formation by deriving elemental abundances of individual stars as well as measuring integrated light from unresolved stellar clusters. 
 To understand how galaxies formed and evolved I followed different yet complementary lines of investigation using mainly observational tools.
