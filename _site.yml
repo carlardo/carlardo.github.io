@@ -33,5 +33,7 @@ output:
     css: 'styles.css'
     includes:
        in_header: GA_script.html
-       
+       in_body: TAG_script.html 
+
+  
        
