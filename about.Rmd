@@ -8,12 +8,10 @@ My research interests cover a wide range of topics in the fields of galaxy forma
 
 #### **The Mystery of the Multiple Populations in Stellar Clusters**
 
-.alert-trim {
-  display: inline-block;
-}
 
 
-<img src="images/mappe.pdf" style="width:30%;  margin:10px 10px" align="right">
+
+<img src="images/mappe.pdf" style="width:40%;  margin:10px 10px" align="right">
 
 The discovery that globular clusters (GCs) do not fit within the traditional picture of being composed by stars with the same age and chemical abundances within some small tolerance has led to a growing interest in cluster studies. GCs host multiple populations (MPs) of stars with spreads in He and many other light elements (namely C, N, O, Na, Al, Mg). Several formation scenarios have been proposed to explain the chemical MPs, but none of them is able to entirely reproduce observations.
 The origin of this phenomenon is arguably the largest open question within the GC community at present and it is unlikely that most of the questions about GC formation and evolution will be answered without a new insight on MPs. 
@@ -22,7 +20,10 @@ The origin of this phenomenon is arguably the largest open question within the G
 **A critical discussion of the state-of-the-art of the MP studies can be found in the review ["Multiple Stellar Populations in Globular Clusters"](http://adsabs.harvard.edu/abs/2018ARA%26A..56...83B) that appeared in Volume 56 of Annual Reviews of Astronomy & Astrophysics (Bastian and Lardo, 2018).**
 
 
-<div class="alert alert-info alert-trim">
+
+
+<div class="container">
+<div class="alert alert-info display: inline-block">
 
 **Some Selected Publications:**
 
@@ -44,7 +45,7 @@ from the Antennae galaxies</A>
 Dalessandro, E. 2011,  *Astronomy and Astrophysics* <A href="http://adsabs.harvard.edu/abs/2011A%26A...525A.114L">Mining SDSS in search of 
 multiple populations in globular clusters</A> 
 </div>
-
+</div>
 
 
 ******
@@ -128,7 +129,9 @@ This technique has also been successfully applied to unresolved young (10-100 My
 In Lardo et al. (2015, 2017b) we directly measured abundances in three SSCs located at more than 20 Mpc from us in the Antennae galaxies. Compiling this study with other recent work (Davies et al., 2017) we constructed a mass-metallicity relation for nearby galaxies based entirely on individual stars (i.e. not relying on nebular emission lines), providing the benchmark against which all future extragalactic abundance work can be calibrated.
 
 
-<div class="alert alert-info">
+<div class="container">
+<div class="alert alert-info display: inline-block">
+
 **Some Selected Publications:**
 
 * <P>**Lardo, C.**, Davies, B., Kudritzki, R.-P., Gazak, J. Z., Evans, C. J., 
@@ -142,4 +145,5 @@ Beasor, E., Plez, B., Evans, ., Bastian, N., &amp; Patrick, L.
 R. 2017,  *The Astrophysical Journal* <A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">Red Supergiants as Cosmic Abundance 
 Probes: Massive Star Clusters in M83 and the Mass-Metallicity Relation of 
 Nearby Galaxies</A> 
+</div>
 </div>
