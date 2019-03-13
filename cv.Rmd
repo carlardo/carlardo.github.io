@@ -9,8 +9,9 @@ Get a pdf copy of my CV here (last update Mar, 2019).
 
 
 
-<div class="container">
-<div class="alert alert-info display: inline-block">
+
+
+<div class="alert alert-success" style="width: 60%>
 
 
 ###Personal infomation
@@ -47,8 +48,8 @@ Liverpool John Moores University (UK)<br/>
 **January 2013 - July 2014** - Postdoctoral Associate,<br/>
 INAF- Bologna Observatory (IT)<br/>
 
-<\div>
-<\div>
+</div>
+
 
 
 
