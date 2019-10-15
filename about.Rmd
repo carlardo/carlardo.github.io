@@ -12,7 +12,7 @@ My research interests cover a wide range of topics in the fields of galaxy forma
 
 
 
-<img src="images/mappe.pdf" style="width:40%;  margin:10px 10px" align="right">
+<img src="images/mappe-1.png" style="width:40%;  margin:10px 10px" align="right">
 
 The discovery that globular clusters (GCs) do not fit within the traditional picture of being composed by stars with the same age and chemical abundances within some small tolerance has led to a growing interest in cluster studies. GCs host multiple populations (MPs) of stars with spreads in He and many other light elements (namely C, N, O, Na, Al, Mg). Several formation scenarios have been proposed to explain the chemical MPs, but none of them is able to entirely reproduce observations.
 The origin of this phenomenon is arguably the largest open question within the GC community at present and it is unlikely that most of the questions about GC formation and evolution will be answered without a new insight on MPs. 
@@ -48,7 +48,7 @@ The origin of this phenomenon is arguably the largest open question within the G
 Long-lived extremely metal-poor (EMP, with [Fe/H]??? ???3) stars in the Local Group allow to investigate the initial stages of the cosmic history in great detail. 
 Indeed, they represent reachable probes of first stages of the enrichment of the primordial Universe, complementing direct studies of high-redshift galaxies.
 
-<img src="images/pristine221.pdf" style="width:55%;  margin:10px 10px" align="left">
+<img src="images/pristine221-1.png" style="width:55%;  margin:10px 10px" align="left">
 
 
 In a typical high latitude field, only one in ??? 80, 000 stars has [Fe/H]??? -4 dex (Youakim et al., 2017) and less than 20 stars with [Fe/H] ??? ??? 4.5 dex are known (Christlieb et al., 2002; Frebel et al., 2005; Caffau et al., 2011; Keller et al., 2014; Bonifacio et al., 2015; Aguado et al., 2018a,b).
@@ -76,7 +76,7 @@ The photometric survey *Pristine* has been especially designed to identify EMPs 
 
 ####**The Milky Way *revealed* by Gaia-ESO**
 
-<img src="images/gaia.pdf" style="width:45%;  margin:10px 10px" align="left">
+<img src="images/gaia-1.png" style="width:45%;  margin:10px 10px" align="left">
 The main goal of the [**Gaia**](http://sci.esa.int/gaia/) space mission is to depict a position and space velocity map of the Galaxy, by surveying more than one billion stars in the Milky Way.
 While Gaia will provide radial velocities, the magnitude limit is much brighter than that of the astrometry and the precision is much below that of proper motions. The [**Gaia-ESO survey**](https://www.gaia-eso.eu) (e.g. Gilmore et al., 2012) completes the information provided by Gaia yielding radial velocities and stellar abundances for stars that are too faint for Gaia???s spectrometer.
 
@@ -99,7 +99,7 @@ For the past five year, I was involved in the calibration of the Gaia-ESO spectr
 
 ####**Quantitative near-IR spectroscopy out to the Mpc distances**
 
-<img src="images/rsgs.pdf" style="width:47%;  margin:10px 10px"" align="right">
+<img src="images/rsgs-1.png" style="width:47%;  margin:10px 10px"" align="right">
 
 Most of our information about the metallicity in distant galaxies relies on the analysis of strong HII-region emission lines. However, such an analysis is known to be subject
 to large systematic errors (e.g., > 0.5 dex depending on the calibration used) that need to be better understood and quantified.
