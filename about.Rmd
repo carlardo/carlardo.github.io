@@ -23,7 +23,7 @@ The origin of this phenomenon is arguably the largest open question within the G
 
 
 
-<div class="alert alert-info" style="width: 45%;" role="alert">
+<div class="alert alert-info" style="width: 53%;" role="alert">
 **Some Selected Publications:**
 
 * <P> Bastian, N.; Usher, C.; Kamann, S.; **Lardo, C.**; Larsen, S. S.; Cabrera-Ziri, I.; Chantereau, W, et al. <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489L..80B"> 2019, MNRAS, 489L, 80B</A> 
@@ -123,7 +123,7 @@ This technique has also been successfully applied to unresolved young (10-100 My
 In Lardo et al. (2015, 2017b) we directly measured abundances in three SSCs located at more than 20 Mpc from us in the Antennae galaxies. Compiling this study with other recent work (Davies et al., 2017) we constructed a mass-metallicity relation for nearby galaxies based entirely on individual stars (i.e. not relying on nebular emission lines), providing the benchmark against which all future extragalactic abundance work can be calibrated.
 
 
-<div class="alert alert-info" style="width: 45%;" role="alert">
+<div class="alert alert-info" style="width: 53%;" role="alert">
 
 **Some Selected Publications:**
 
