@@ -1,0 +1,219 @@
+
+\documentclass[ 11pt]{article}
+
+\usepackage{wrapfig}
+\usepackage{graphicx}
+\usepackage{eurosym}
+\usepackage{soul}
+\usepackage{floatrow}
+\usepackage{paralist}
+\usepackage{amsfonts}
+\usepackage{textcomp}
+\usepackage[table, svgnames, dvipsnames]{xcolor}
+
+            
+\usepackage[skins]{tcolorbox}
+\newcommand{\MYhref}[3][blue]{\href{#2}{\color{#1}{#3}}}%
+\newtcolorbox{mybox}{colback=mainblue!15!white,colframe=mainblue!75!black}
+\newtcolorbox{mybox1}{colback=darkgray!5!white,colframe=darkgray!75!black}
+
+
+\usepackage[export]{adjustbox}
+
+\usepackage{scicite}
+
+\usepackage{erc}
+
+
+\usepackage{setspace}
+
+
+
+
+
+\usepackage{xcolor,pifont}
+\newcommand*\colourcheck[1]{%
+  \expandafter\newcommand\csname #1check\endcsname{\textcolor{#1}{\ding{52}}}%
+  }
+
+\colourcheck{green}
+
+\newcommand*\colourmark[1]{%
+  \expandafter\newcommand\csname #1mark\endcsname{\textcolor{#1}{\ding{55}}}%
+  }
+
+\colourmark{red}
+
+\usepackage{titlesec}
+
+
+
+
+
+\usepackage{multicol}
+
+\usepackage[skins]{tcolorbox}
+
+\definecolor{mainblue}{HTML}{045FB4} %{0E5484}
+\input{common1}
+
+\begin{document}
+
+\lhead{\emph{\surname}}
+\chead{ }
+\rhead{\project}
+\cfoot{\thepage}
+
+\newcommand{\note}[1]{{\color{red}\it #1}}
+%\newcommand{\note}[1]{}
+
+\begin{onecolumn}
+
+\section*{Curriculum vitae}
+
+\end{onecolumn}
+
+
+\begin{mybox}
+
+\begin{tabular}{ll}
+ \multicolumn{2}{l}{{\bf PERSONAL INFORMATION}} \\
+  Family name, First name: & {\bf Lardo, Carmela} \\
+  Researcher unique identifier & \href{http://orcid.org/0000-0002-4295-8773}{{\color{purple}{\bf orcid.org/0000-0002-4295-8773}}} \\
+  %Date of birth: & December, 1984 \\
+  Nationality: & Italy\\
+  URL for web site:  &\href{https://carlardo.github.io}{{\color{purple}{\bf link to GitHub}}}\\
+    NASA ADS: & \href{https://ui.adsabs.harvard.edu/search/q=lardo\%2C\%20carmela&sort=date\%20desc\%2C\%20bibcode\%20desc&p_=0}{{\color{purple}{\bf link to ADS}}}\\
+
+\end{tabular}
+
+\end{mybox}
+
+
+\subsection*{HIGHLIGHTS OF ACADEMIC ACHIEVEMENTS}
+\begin{itemize}
+\item  One invited article in {\em Annual Reviews of Astronomy and Astrophysics} (2018)
+\item  Organisation of four international workshops and conferences
+\item  Builder of the {\em Gaia ESO Survey}
+\item  6 seminars, 19 contributed and 4 invited talks at international meeting and conferences
+\item  PI and co-PI of $>$ 37 observing proposals
+\item  Three Ph.D. students as co-supervisor
+\item  99 refereed papers (11 as first author) with $>$ 2800 citations (H-index of 31)
+\end{itemize}
+
+
+\subsection*{EDUCATION}
+\begin{tabular}{p{2cm}p{14cm}}
+
+  2010 -- 2013 & Ph.D. in Astronomy: {\em Multiple populations in globular clusters from photometry and low-resolution spectroscopy}. Advisor: B.~Marano, co-advisors: E.~Pancino, M.~Bellazzini.\\
+                     &Department of Astronomy, University of Bologna, I\\
+  2007 -- 2009  & MSc in Astrophysics and Cosmology ({\em 110/110 cum laude})\\
+                      &  Department of Astronomy, University of Bologna, I\\
+2003 -- 2007  & MSc  in Astronomy  ({\em 110/110 cum laude}) \\
+		    & Department of Astronomy, University of Bologna, I\\
+
+\end{tabular}
+
+\subsection*{CURRENT POSITION}
+
+\begin{tabular}{p{2cm}p{14cm}}
+  2017 -- &Swiss National Science Foundation Ambizione Fellow\\
+             &  Laboratoire d'astrophysique (LASTRO)\\
+	    & Ecole Polytechnique F\`ed\`erale de Lausanne (EPFL), CH\\
+\end{tabular}
+
+
+  
+\subsection*{PREVIOUS POSITIONS}
+\begin{tabular}{p{2cm}p{14cm}}
+  2014 -- 2017 & Post-doc Research Associate; Astrophysics Research Institute - Liverpool John Moores University, UK\\
+ 2013 -- 2014 & Post-doc Research Associate;  Observatory of Bologna - Istituto Nazionale di Astrofisica, I\\
+\end{tabular}
+
+
+  
+
+
+\subsection*{FELLOWSHIPS AND AWARDS}
+\begin{tabular}{p{2cm}p{14cm}}
+  2018 -- 2020 & MERAC funding and travel award (\EUR 3\ 000)\\
+  2017 -- 2020 & SNSF Ambizione Fellowship (PZ002P\_168065; \EUR $\sim$ 292\ 000)) \\
+  2012 -- 2013 & Marco Polo visiting scholar (Istituto de Astrof\'{i}sica de Canarias; \EUR $\sim$1\ 800)\\
+  2003 -- 2009 & Collegio Superiore grant (University of Bologna; \EUR $\sim$ 50\ 000)
+
+\end{tabular}
+
+	
+	
+\subsection*{SUPERVISION OF GRADUATE STUDENTS}
+
+\begin{tabular}{p{2cm}p{14cm}}
+2019     & Co-advisor Master thesis, EPFL, CH\\
+2019     & Co-advisor -- Research Internship , EPFL, CH\\
+2019     & Co-advisor -- Research Internship, EPFL, CH\\
+2018     & Co-advisor -- Research Internship, ParisTech, F\\
+2016 --           & Co-supervisor Ph.D. student S. Martocchia -- currently ESO Studentship, Munich, DE\\
+2012 --  2016 & Co-supervisor Ph.D. student I. Cabrera-Ziri -- currently Hubble Fellow, CfA-Harvard, USA\\
+2012 --  2016 & Co-supervisor Ph.D. student K. Hollyhead -- currently PDRA in Stockholm, SE\\
+\end{tabular}
+
+\subsection*{TEACHING ACTIVITIES}
+
+\begin{tabular}{p{2cm}p{14cm}}
+2018     & Tutorials in Astrophysics II (Bases physiques de l'astrophysique), LASTRO, CH\\   
+2017     & Tutorials in Astrophysics III (Stellar and galactic dynamics), LASTRO, CH\\
+2011 -- 2012 & Tutorials in Optics,  University of Bologna, I\\
+\end{tabular}
+
+
+
+\subsection*{ORGANISATION OF SCIENTIFIC MEETINGS}
+\begin{tabular}{p{2cm}p{14cm}}
+2018  & Chair --  {\em Multiple populations in Stellar Clusters}, Sexten Center for Astrophysics (I) \\
+ 2018 & SOC member -- {\em Multiple populations in massive star clusters - A common thread through
+cosmological ages?} European Week of Astronomy and Space Science 2018 (UK)\\
+ 2017 & SOC member -- {\em Bridging the near and the far: from the Milky Way to nearby galaxies}, European Week of Astronomy and Space Science 2017 (CZ)\\
+ 2016 &Chair -- {\em Multiple Populations in Globular Clusters: Where do we stand?} Sexten Center for Astrophysics (I) \\
+\end{tabular}
+
+\subsection*{REVIEWING ACTIVITIES}
+\begin{tabular}{p{2cm}p{14cm}}
+ 2019  & Hubble Time Allocation Committee (Cycle 27 -Stellar Populations)\\
+ 2018 & Expert grant reviewer for {\em American University of Sharjah}\\
+ 2018  & Expert  science reviewer for {\em Australian Time Allocation Committee}\\
+ 2015 -- 2016 & ESO Time Allocation Committee (Periods 97-98)\\
+ 2015 --   & Referee in all major astronomical journals (i.e., ApJ, MNRAS, A\&A...)
+ \end{tabular}
+
+
+
+
+\subsection*{SCIENTIFIC RESPONSIBILITIES}
+\begin{tabular}{p{2.5cm}p{13.5cm}}
+2019     & Contributor -- {\em Blue MUSE: Project Overview and Science Cases}\\
+2019      & ChETEC Working Group 3 (Astronomical observations and interpretation) member\\ 
+2018 --  & Member of the {\em Pristine} collaboration (PIs: E. Starkenburg \& N. Martin)\\
+2017     &  Contributor -- {\em MAORY science cases white book}\\
+2019 -- 2020 &Invited team member-- {\em Pristine -- Looking for the imprints of the first stars in the Universe}; International Space Science Institute (ISSI) - CH \\
+2018 -- 2019 & Invited team member-- {\em Globular Clusters in the Gaia era}; IISSI - CH\\
+2016 -- 2017 & Invited young scientist -- {\em The Formation and Evolution of the Galactic Halo - Setting the Scene for the Large Modern Surveys}; ISSI - CH\\
+2013 --         &   Builder of The Gaia Eso Survey (GES; PIs: G Gilmore \& S. Randich)\\
+
+\end{tabular}
+
+
+\subsection*{INSTITUTIONAL RESPONSIBILITIES}
+\begin{tabular}{p{2.5cm}p{13.5cm}}
+2018 --          & Organizer  -- LASTRO-UniGE Colloquium (Sauverny Observatory, CH)\\
+%2016 -- 2017 & Organizer --  Journal Club, Astrophysical Research Institute, UK\\
+\end{tabular}
+
+\subsection*{VISITING PERIODS IN INTERNATIONAL INSTITUTES}
+\begin{tabular}{p{2.5cm}p{13.5cm}}
+2019           & ESO Garching\\
+2019          & American University of Sharjah (UAE)\\
+\end{tabular}
+
+
+
+\end{document}

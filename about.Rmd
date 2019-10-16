@@ -1,6 +1,5 @@
 ---
 title: "Research"
-output: pdf_document
 ---
 
 My research interests cover a wide range of topics in the fields of galaxy formation, stellar evolution, stellar spectroscopy, and stellar populations.
