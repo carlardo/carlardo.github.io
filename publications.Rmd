@@ -8,7 +8,7 @@ An up-to-date list of my published papers can be found on ADS sorted by [year](h
 
 
 <div class="alert alert-warning" role="alert"><i class="fa fa-warning"></i>
-Since 2011 I have been an author on 99 refereed publications, 11 as first author. As of around October 14, 2019, my publications had  ~2800 citations and my *h*-index was 31, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc/metrics)).
+Since 2011 I have been an author on 105 refereed publications, 11 as first author. As of around January 30, 2020, my publications had  ~3050 citations and my *h*-index was 33, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc/metrics)).
 </div>
 
 #### First author papers
@@ -136,26 +136,58 @@ populations</A>
 
 
 ####Co-authored papers
+1. <P> Salaris, M.,  Usher, C.,  Martocchia, S.,  Dalessandro, E.,  Bastian, N.,  Saracino, S., Cassisi, S.,  Cabrera-Ziri, I., **Lardo, C.**; 2020,
+*Monthly Notices of the Royal Astronomical Society* <A
+href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.3459S/abstract">Photometric characterization of multiple populations in star clusters: the impact of the first dredge-up</A>
+
+
+1. <P>Venn, K. A.,  Kielty, C. L.,  Sestito, F.,  Starkenburg, E.,  Martin, N.,  Aguado, D. S., Arentsen, A.,  Bonifacio, P.,  Caffau, E.,  Hill, V.,  Jablonka, P., **Lardo, C.**,  Mashonkina, L.,  Navarro, J. F.,  Sneden, C.,  Thomas, G., Youakim, K.,  González-Hernández, J. I.,  Sánchez Janssen, R.,  Carlberg, R.,  Malhan, K.; 2020,
+*Monthly Notices of the Royal Astronomical Society* <A
+href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.3241V/abstract">The Pristine survey - IX. CFHT ESPaDOnS spectroscopic analysis of 115 bright metal-poor candidate stars</A>
+
+
+
+
+1. <P>Kamann, S., Bastian, N., Gossage, S., Baade, D., Cabrera-Ziri, I., Da Costa, G., de Mink, S. E., Georgy, C., Giesers, B., Göttgens, F., Hilker, M., Husser, T. -O., **Lardo, C.**, Larsen, S. S., Mackey, D., Martocchia, S., Mucciarelli, A., Platais, I., Roth, M. M., Salaris, M., Usher, C., Yong, D.; 2020,
+*Monthly Notices of the Royal Astronomical Society* <A
+href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.2177K/abstract">How stellar rotation shapes the colour-magnitude diagram of the massive intermediate-age star cluster NGC 1846</A>
+
+
+1. <P>Youakim, K.,  Starkenburg, E.,  Martin, N. F.,  Matijevic, G.,  Aguado, D. S.,  Allende Prieto, C.,  Arentsen, A., Bonifacio, P.,  Carlberg, R. G.,  González Hernández, J. I.,  Hill, V.,  Kordopatis, G.,  **Lardo, C.**,  Navarro, J. F., Jablonka, P.,  Sánchez-Janssen, R.,  Sestito, F.,  Thomas, G. F.; 2020,
+*Monthly Notices of the Royal Astronomical Society* <A
+href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp..134Y/abstract">The Pristine Survey - VIII. The metallicity distribution function of the Milky Way halo down to the extremely metal-poor regime</A>
+
+
+1. <P>Arentsen, A.,;  Starkenburg, E.,  Martin, N. F.,  Hill, V.,  Ibata, R.,  Kunder, A.,  Schultheis, M.,  Venn, K. A., Zucker, D. B.,  Aguado, D.,  Carlberg, R.,  González Hernández, J. I., **Lardo, C.**,  Longeard, N.,  Malhan, K., Navarro, J. F.,  Sánchez-Janssen, R.,  Sestito, F.,  Thomas, G.,  Youakim, K.,  Lewis, G. F.,  Simpson, J. D., Wan, Z.; 2020, *Monthly Notices of the Royal Astronomical Society* <A
+href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.491L..11A/abstract">The Pristine Inner Galaxy Survey (PIGS) I: tracing the kinematics of metal-poor stars in the Galactic bulge</A>
+
+
+1. <P>de Juan Ovelar, M.,  Gossage, S.,  Kamann, S.,  Bastian, N.,  Usher, C.,  Cabrera-Ziri, I.,  Dotter, A., Conroy, C., **Lardo, C.**; 2020, *Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.491.2129D/abstract">Extended main sequence turnoffs in open clusters as seen by Gaia - II. The enigma of NGC 2509</A> 
+
+
+1. <P>Aguado, D. S., Youakim, K., González Hernández, J. I., Allende Prieto, C., Starkenburg, E., Martin, N., Bonifacio, P., Arentsen, A., Caffau, E., Peralta de Arriba, L., Sestito, F., Fantin, N., Hill, V., Jablonka, P., Jahandar, F., Kielty, C., Longeard, N., Lucchesi, R., Sánchez-Janssen, R., Osorio, Y., Palicio, P., A.; Tolstoy, E., Wilson, T., G.; Côté, P., Kordopatis, G., **Lardo, C.**, Navarro, J. F., Thomas, G. F., Venn, K., 2019,
+*Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.2241A/abstract">The Pristine survey - VI. The first three years of medium-resolution follow-up spectroscopy of Pristine EMP star candidates</A> 
+
+
+
+1. <P>Saracino, S., Bastian, N., Kozhurina-Platais, V., Cabrera-Ziri, I., Dalessandro, E., Kacharov, N., **Lardo, C.**, Larsen, S. S., Mucciarelli, A., Platais, I., Salaris, M.,2019,
+*Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489L..97S/abstract">An extragalactic chromosome map: the intermediate-age SMC cluster Lindsay 1</A> 
+
+
+
+
 1. <P>Bastian, N., Usher, C., Kamann, S., **Lardo, C.**,  Larsen, S., Cabrera-Ziri, I.,
 Chantereau, W., Martocchia, S., Salaris, M., Schiavon, R. P., Asa'd, R., &amp; Hilker, M.,2019,
 *Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489L..80B">Multiple populations in integrated light spectroscopy of intermediate-age clusters</A> 
 
-1. <P>Saracino, S., Bastian, N., Kozhurina-Platais, V., Cabrera-Ziri, I., Dalessandro, E., Kacharov, N., **Lardo, C.**, Larsen, S. S., Mucciarelli, A., Platais, I., Salaris, M. 2019 
-*Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489L..97S">An extragalactic chromosome map: the intermediate-age SMC cluster Lindsay 1</A> 
 
-
-
-1. <P>Aguado, D. S., Youakim, K., Gonz&#225;lez Hern&#225;ndez, J. Allende Prieto, C., Starkenburg, E., Martin, N., Bonifacio, P., Arentsen, A., Caffau, E., Peralta de Arriba, L., Sestito, F., Garcia-Diaz, R. Fantin, N., Hill, V., Jablonka, P., Jahandar, F., Kielty, K., Longeard , N., Lucchesi, R., 
-S&#225;nchez-Janssen, R., Osorio, Y., Palicio, P. A., Tolstoy, E., Wilson, T. G.,C&#244;t&#233, P.,
-Kordopatis, G., **Lardo, C.**, Navarro, J. F., Thomas, G. F., Venn, K.,2019,
-*Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.tmp.2271A">The Pristine Survey - VI. The first three years of medium-resolution follow-up spectroscopy of Pristine EMP star candidates</A> 
 
 
 1. <P>Martocchia, S., Dalessandro, E.,**Lardo, C.**, Cabrera-Ziri, I., Bastian, N., Kozhurina-Platais, V., Salaris, M., Chantereau, W., Geisler, D., Hilker, M., Kacharov, N., Larsen, S., Mucciarelli, A.; Niederhofer, F., Platais, I., Usher, C. 2019 *Monthly Notices of the Royal Astronomical Society*
 <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.5324M">The search for multiple populations in Magellanic Clouds clusters - V. Correlation between cluster age and abundance spreads</A> 
 
 
-1. <P>Bonifacio, P., Caffau, E., Sestito, F., **Lardo, C.**, Martin, N. F., Starkenburg, E., Sbordone, L., Fran??ois, P., Jablonka, P., Henden, A. A., Salvadori, S., Gonz&#225;lez Hern&#225;ndez, J. I., Aguado, D. S.; Hill, V., Venn, K., Navarro, J. F., Arentsen, A., S&#225;nchez-Janssen, R., Carlberg, R., 2019 *Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3797B">The Pristine survey - V. A bright star sample observed with SOPHIE</A> 
+1. <P>Bonifacio, P., Caffau, E., Sestito, F., **Lardo, C.**, Martin, N. F., Starkenburg, E., Sbordone, L., Fran??ois, P., Jablonka, P., Henden, A. A., Salvadori, S.,  González Hernández, J. I., Aguado, D. S.; Hill, V., Venn, K., Navarro, J. F., Arentsen, A., Sánchez-Janssen, R., Carlberg, R., 2019 *Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3797B">The Pristine survey - V. A bright star sample observed with SOPHIE</A> 
 
 
 
@@ -181,7 +213,7 @@ Globular Cluster NGC 6752</A>
 
 1. <P>Starkenburg, E., Aguado, David S., Bonifacio, P., Caffau, 
 E., Jablonka, P., **Lardo, C.**, Martin, N., 
-S&#225;nchez-Janssen, R., Sestito, F., Venn, K.A., Youakim, K., 
+Sánchez-Janssen, R., Sestito, F., Venn, K.A., Youakim, K., 
 Allende Prieto, C., Arentsen, A., Gentile, M., Gonz&#225;lez Hern&#225;ndez, 
 J. I., Kielty, C., Koppelman, H. H., Longeard, N., Tolstoy, 
 E., Carlberg, R. G., C&#244;t&#233;, P., Fouesneau, M., Hill, 
