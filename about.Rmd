@@ -3,6 +3,19 @@ title: "Research"
 output: pdf_document
 ---
 
+<style>
+p.comment {
+background-color: #DBDBDB;
+padding: 10px;
+border: 1px solid black;
+margin-left: 25px;
+border-radius: 5px;
+font-style: italic;
+}
+
+</style>
+
+
 My research interests cover a wide range of topics in the fields of galaxy formation, stellar evolution, stellar spectroscopy, and stellar populations.
 
 ******
@@ -23,9 +36,10 @@ The origin of this phenomenon is arguably the largest open question within the G
 
 
 
-<div class="alert alert-info" style="width: 53%;" role="alert">
+
 **Some Selected Publications:**
 
+<p class="comment">
 * <P> Bastian, N.; Usher, C.; Kamann, S.; **Lardo, C.**; Larsen, S. S.; Cabrera-Ziri, I.; Chantereau, W, et al. <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489L..80B"> 2019, MNRAS, 489L, 80B</A> 
 
 * <P>Cabrera-Ziri, I.; **Lardo, C.**; Mucciarelli, A., <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.4128C"> MNRAS, 485, 4128C</A> 
@@ -46,7 +60,7 @@ The origin of this phenomenon is arguably the largest open question within the G
 
 * <P> **Lardo, C.** et al, 
 <A href="http://adsabs.harvard.edu/abs/2011A%26A...525A.114L">2011, A&A, 525A, 114L</A> 
-</div>
+</p>
 
 
 
@@ -74,7 +88,7 @@ The photometric survey *Pristine* has been especially designed to identify EMPs 
  [Observatoire de Paris.](https://www.obspm.fr/discovery-of-a-second-non.html?lang=fr)
 
 
-<div class="alert alert-info">
+<p class="comment">
 **Some Selected Publications:**
 
 * <P> Aguado, D. S.; Youakim, K.; González Hernández, J. I.; ...; **Lardo, C**, et al. <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.tmp.2271A">  2019, MNRAS.tmp.2271A</A>
@@ -82,7 +96,7 @@ The photometric survey *Pristine* has been especially designed to identify EMPs 
 * <P>Bonifacio, P.; Caffau, E.; Sestito, F.; **Lardo, C.**, et al. <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3797B"> 2019, MNRAS, 487, 3797B</A>
 
 * <P>Starkenburg, E. et al. <A href="http://adsabs.harvard.edu/abs/2018MNRAS.481.3838S"> 2018, MNRAS, 481, 3838S</A> 
-</div>
+</p>
 
 ******
 
@@ -97,14 +111,14 @@ While Gaia will provide radial velocities, the magnitude limit is much brighter 
 
 For the past five year, I was involved in the calibration of the Gaia-ESO spectroscopic data. Calibrations are critical for large surveys like Gaia-ESO, where a wide variety of stellar populations are observed and results from several different analysis techniques are considered.
 
-<div class="alert alert-info">
+<p class="comment">
 **Some Selected Publications:**
 
 * <P>**Lardo, C.**, et al., <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A.115L">2015, A&A, 573A, 115L</A> 
 
 * <P>Pancino, E., **Lardo, C.**, et al.,<A href="http://adsabs.harvard.edu/abs/2017A%26A...598A...5P"> 2017, A&A, 598A, 5P</A> 
 
-</div>
+</p>
 
 
 ******
@@ -123,18 +137,16 @@ This technique has also been successfully applied to unresolved young (10-100 My
 In Lardo et al. (2015, 2017b) we directly measured abundances in three SSCs located at more than 20 Mpc from us in the Antennae galaxies. Compiling this study with other recent work (Davies et al., 2017) we constructed a mass-metallicity relation for nearby galaxies based entirely on individual stars (i.e. not relying on nebular emission lines), providing the benchmark against which all future extragalactic abundance work can be calibrated.
 
 
-<div class="alert alert-info" style="width: 53%;" role="alert">
-
+<p class="comment">
 **Some Selected Publications:**
 
 * <P>**Lardo, C.**, et al.,
 <A href="http://adsabs.harvard.edu/abs/2015ApJ...812..160L">
 2015ApJ, 812, 160L</A>
 
-
 * <P>Davies, B., et al., <A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">
 2017ApJ, 847, 112D</A> 
-</div>
+</p>
 
 
 

@@ -3,13 +3,27 @@ title: "Publication List"
 ---
 
 
+<style>
+p.comment {
+background-color: #DBDBDB;
+padding: 10px;
+border: 1px solid black;
+margin-left: 25px;
+border-radius: 5px;
+font-style: italic;
+}
+
+</style>
+
+
+
 
 An up-to-date list of my published papers can be found on ADS sorted by [year](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0) or [citations](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=citation_count%20desc%2C%20bibcode%20desc&p_=0).
 
 
-<div class="alert alert-warning" role="alert"><i class="fa fa-warning"></i>
-Since 2011 I have been an author on 105 refereed publications, 11 as first author. As of around January 30, 2020, my publications had  ~3050 citations and my *h*-index was 33, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc/metrics)).
-</div>
+<p class="comment">
+Since 2011 I have been an author on 109 refereed publications, 11 as first author. As of around March 18, 2020, my publications had  ~3190 citations and my *h*-index was 33, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc/metrics)).
+</p>
 
 #### First author papers
 
@@ -84,6 +98,9 @@ Dalessandro, E. 2011,  *Astronomy and Astrophysics* <A href="http://adsabs.harva
 multiple populations in globular clusters</A> 
 
 #### Second author papers
+1. Bastian, N.,   **Lardo, C.**,  Usher, C., Kamann, S.,  Larsen, S. S., Cabrera-Ziri, I.,  Chantereau, W.,  Martocchia, S.,  Salaris, M.,  Asa'd, R.,  Hilker, M., 2020, accepted for publication in *Monthly Notices of the Royal Astronomical Society*  <A href="https://ui.adsabs.harvard.edu/abs/2020arXiv200303428B/abstract">Searching for Multiple Populations in the Integrated Light of the Young and Extremely Massive Clusters in the Merger Remnant NGC 7252</A>
+
+
 1. <P>Cabrera-Ziri, I., **Lardo, C.**, Mucciarelli, A. 2019, *Monthly Notices of the Royal Astronomical Society*  <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.4128C/abstract">Constant light element abundances suggest that the extended P1 in NGC 2808 is not a consequence of CNO-cycle nucleosynthesis</A>
 
 1. <P>Dalessandro, E., **Lardo, C.**, Cadelano, M., Saracino, S., Bastian, N., 
@@ -136,6 +153,17 @@ populations</A>
 
 
 ####Co-authored papers
+1. Saracino, S.,  Martocchia, S.,  Bastian, N.,  Kozhurina-Platais, V.,  Chantereau, W.,  Salaris, M., Cabrera-Ziri, I., Dalessandro, E.,  Kacharov, N., **Lardo, C.**,  Larsen, S. S.,  Platais, I.; 2020, accepted for publication in *Monthly Notices of the Royal Astronomical Society* <A
+href="https://ui.adsabs.harvard.edu/abs/2020arXiv200301780S/abstract">Chromosome maps of young LMC clusters: An additional case of coeval multiple populations</A>
+
+1. Martins, F.,  Morin, J.,  Charbonnel, C., **Lardo, C.**,  Chantereau, W.; 2020,  *Astronomy and Astrophysics* <A href="https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..52M/abstract">Impact of a companion and of chromospheric emission on the shape of chromosome maps for globular clusters</A> 
+
+1. Caffau, E.,  Bonifacio, P.,  Sbordone, L.,  Pinto, A. M. Matas,  François, P.,  Jablonka, P.,  **Lardo, C.**,  Martin, N., Starkenburg, E.,  Aguado, D.,  González-Hernández, J. I.,  Venn, K.,  Mashonkina, L.,  Sestito, F.; 2020,
+*Monthly Notices of the Royal Astronomical Society* <A
+href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp..556C/abstract">The Pristine survey XI: the FORS2 sample</A>
+
+
+
 1. <P> Salaris, M.,  Usher, C.,  Martocchia, S.,  Dalessandro, E.,  Bastian, N.,  Saracino, S., Cassisi, S.,  Cabrera-Ziri, I., **Lardo, C.**; 2020,
 *Monthly Notices of the Royal Astronomical Society* <A
 href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.3459S/abstract">Photometric characterization of multiple populations in star clusters: the impact of the first dredge-up</A>
