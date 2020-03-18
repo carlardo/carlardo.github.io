@@ -27,18 +27,28 @@ To understand how galaxies formed and evolved I followed different yet complemen
 *****
 
 
-<img src="images/antennae-1.png" style="width:43%;  margin-right: 20px" align="right"/>
 
 
 
-<div class="alert alert-info" style="width: 52%;" role="alert"><i class="fa fa-info-circle"></i>
-**About Me**
+<style>
+p.comment {
+background-color: #DBDBDB;
+padding: 10px;
+border: 1px solid black;
+margin-left: 25px;
+border-radius: 5px;
+font-style: italic;
+}
 
-I am a SNF Ambizione Fellow at the Laboratory of Astrophysics (LASTRO) of EPFL. Before moving to LASTRO in April 2017, I was a PDRA at the Astrophysics Reaserch Institute (LJMU, UK) and at the Bologna OBservatory (IT).
+</style>
+
+<p class="comment">
+I am currently an SNF Ambizione Fellow at the Laboratory of Astrophysics (LASTRO) of EPFL. Before moving to LASTRO in April 2017, I worked at the Astrophysics Reaserch Institute (LJMU, UK) and at the Bologna OBservatory (IT) as a PSRA.
 I received my Ph.D. in astronomy titled ["Multiple stellar populations in globular clusters with photometry and low resolution spectroscopy"](http://amsdottorato.unibo.it/5204/) in 2013 from the University of Bologna (IT).
+</p>
 
 
-I am one of the *Survey Builders* of the [**Gaia-ESO survey**](https://www.gaia-eso.eu) collaboration (PIs: G. Gimore and S. Randich) and part of the **PRISTINE** (PIs: E. Starkenburg and N. Martin) collaboration.
 
-</div>
+
+<img src="images/antennae-1.png" style="width:43%;  margin-right: 20px" align="right"/>
 

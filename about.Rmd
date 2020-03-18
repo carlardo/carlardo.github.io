@@ -31,36 +31,10 @@ The discovery that globular clusters (GCs) do not fit within the traditional pic
 The origin of this phenomenon is arguably the largest open question within the GC community at present and it is unlikely that most of the questions about GC formation and evolution will be answered without a new insight on MPs. 
 
 
-**A critical discussion of the state-of-the-art of the MP studies can be found in the review ["Multiple Stellar Populations in Globular Clusters"](http://adsabs.harvard.edu/abs/2018ARA%26A..56...83B) that appeared in Volume 56 of Annual Reviews of Astronomy & Astrophysics (Bastian and Lardo, 2018).**
 
 
 
 
-
-**Some Selected Publications:**
-
-<p class="comment">
-* <P> Bastian, N.; Usher, C.; Kamann, S.; **Lardo, C.**; Larsen, S. S.; Cabrera-Ziri, I.; Chantereau, W, et al. <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.489L..80B"> 2019, MNRAS, 489L, 80B</A> 
-
-* <P>Cabrera-Ziri, I.; **Lardo, C.**; Mucciarelli, A., <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.4128C"> MNRAS, 485, 4128C</A> 
-
-* <P>Martocchia, S.; Dalessandro, E.; **Lardo, C**, et al. <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.5324M">  2019, MNRAS, 487, 5324M</A>
-
-* <P>Hollyhead, K.; Martocchia, S.;**Lardo, C.**; et al. <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.4718H">  2019, MNRAS, 484, 4718H</A>   
-
-* <P>Bastian, N. &amp; **Lardo, C.**,<A href="http://adsabs.harvard.edu/abs/2018ARA%26A..56...83B"> 2018 ARA&A..56...83B</A> 
-
-* <P> **Lardo, C.**, et al., <A href="http://adsabs.harvard.edu/abs/2018A%26A...616A.168L"> 2018A&A, 616A, 168L</A> 
-
-* <P> **Lardo, C.**, et al., <A href="http://adsabs.harvard.edu/abs/2017MNRAS.468.2482L"> 2017MNRAS, 468, 2482L</A> 
-
-* <P> **Lardo, C.**, et al, <A href="http://adsabs.harvard.edu/abs/2016MNRAS.457...51L"> 2016, MNRAS, 457, 51L</A> 
-
-* <P>Bastian, N. &amp; **Lardo, C.**, <A href="http://adsabs.harvard.edu/abs/2015MNRAS.453..357B">2015, MNRAS, 453, 357B</A> 
-
-* <P> **Lardo, C.** et al, 
-<A href="http://adsabs.harvard.edu/abs/2011A%26A...525A.114L">2011, A&A, 525A, 114L</A> 
-</p>
 
 
 
@@ -88,15 +62,7 @@ The photometric survey *Pristine* has been especially designed to identify EMPs 
  [Observatoire de Paris.](https://www.obspm.fr/discovery-of-a-second-non.html?lang=fr)
 
 
-<p class="comment">
-**Some Selected Publications:**
 
-* <P> Aguado, D. S.; Youakim, K.; González Hernández, J. I.; ...; **Lardo, C**, et al. <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.tmp.2271A">  2019, MNRAS.tmp.2271A</A>
-
-* <P>Bonifacio, P.; Caffau, E.; Sestito, F.; **Lardo, C.**, et al. <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3797B"> 2019, MNRAS, 487, 3797B</A>
-
-* <P>Starkenburg, E. et al. <A href="http://adsabs.harvard.edu/abs/2018MNRAS.481.3838S"> 2018, MNRAS, 481, 3838S</A> 
-</p>
 
 ******
 
@@ -104,21 +70,13 @@ The photometric survey *Pristine* has been especially designed to identify EMPs 
 
 <img src="images/gaia-1.png" style="width:45%;  margin:10px 10px" align="left">
 The main goal of the [**Gaia**](http://sci.esa.int/gaia/) space mission is to depict a position and space velocity map of the Galaxy, by surveying more than one billion stars in the Milky Way.
-While Gaia will provide radial velocities, the magnitude limit is much brighter than that of the astrometry and the precision is much below that of proper motions. The [**Gaia-ESO survey**](https://www.gaia-eso.eu) (e.g. Gilmore et al., 2012) completes the information provided by Gaia yielding radial velocities and stellar abundances for stars that are too faint for Gaia???s spectrometer.
+While Gaia will provide radial velocities, the magnitude limit is much brighter than that of the astrometry and the precision is much below that of proper motions. The [**Gaia-ESO survey**](https://www.gaia-eso.eu) (e.g. Gilmore et al., 2012) completes the information provided by Gaia yielding radial velocities and stellar abundances for stars that are too faint for Gaia's spectrometer.
 
 
 
 
-For the past five year, I was involved in the calibration of the Gaia-ESO spectroscopic data. Calibrations are critical for large surveys like Gaia-ESO, where a wide variety of stellar populations are observed and results from several different analysis techniques are considered.
+I have been a member of the Gaia-ESO survey since its preparatory stages. In particular, I was involved in the calibration of the Gaia-ESO spectroscopic data. Calibrations are critical for large surveys like Gaia-ESO, where a wide variety of stellar populations are observed and results from several different analysis techniques are considered.
 
-<p class="comment">
-**Some Selected Publications:**
-
-* <P>**Lardo, C.**, et al., <A href="http://adsabs.harvard.edu/abs/2015A%26A...573A.115L">2015, A&A, 573A, 115L</A> 
-
-* <P>Pancino, E., **Lardo, C.**, et al.,<A href="http://adsabs.harvard.edu/abs/2017A%26A...598A...5P"> 2017, A&A, 598A, 5P</A> 
-
-</p>
 
 
 ******
@@ -135,18 +93,6 @@ to large systematic errors (e.g., > 0.5 dex depending on the calibration used) t
 The J-band technique allows to avoid such systematic issues by performing low-resolution spectroscopy in the near-IR of bright red supergiant stars (e.g. Davies et al., 2010). 
 This technique has also been successfully applied to unresolved young (10-100 Myr) massive ($>10^5M_{\odot}$) super-star clusters (SSCs), for which the integrated J-band light is dominated by RSGs.
 In Lardo et al. (2015, 2017b) we directly measured abundances in three SSCs located at more than 20 Mpc from us in the Antennae galaxies. Compiling this study with other recent work (Davies et al., 2017) we constructed a mass-metallicity relation for nearby galaxies based entirely on individual stars (i.e. not relying on nebular emission lines), providing the benchmark against which all future extragalactic abundance work can be calibrated.
-
-
-<p class="comment">
-**Some Selected Publications:**
-
-* <P>**Lardo, C.**, et al.,
-<A href="http://adsabs.harvard.edu/abs/2015ApJ...812..160L">
-2015ApJ, 812, 160L</A>
-
-* <P>Davies, B., et al., <A href="http://adsabs.harvard.edu/abs/2017ApJ...847..112D">
-2017ApJ, 847, 112D</A> 
-</p>
 
 
 
