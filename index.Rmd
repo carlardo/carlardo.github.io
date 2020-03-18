@@ -1,5 +1,7 @@
 ---
-output: pdf_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 <link rel="stylesheet" href="styles.css" type="text/css">
 
@@ -7,7 +9,7 @@ output: pdf_document
 <img src="images/test.jpg"/>
 Credit: ESO/B. Tafreshi (twanight.org)
 
-I am currently an Swiss National Foundation Ambizione Fellow at the Laboratory of Astrophysics of the École Polytechnique Fédérale de Lausanne (CH). I have received my Ph.D. in astronomy in 2013 from the University of Bologna (IT; ["Multiple stellar populations in globular clusters with photometry and low resolution spectroscopy")](http://amsdottorato.unibo.it/5204/).
+I am currently a postdoctoral research associate at the University of Geneva (Geneva Observatory). I have received my Ph.D. in astronomy in 2013 from the University of Bologna (IT; ["Multiple stellar populations in globular clusters with photometry and low resolution spectroscopy")](http://amsdottorato.unibo.it/5204/).
 
 
 
