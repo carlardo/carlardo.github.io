@@ -1,12 +1,14 @@
 ---
 title: 'Visualizations'
 ---
+<img src="images/sunset.jpg"/>
+Credit:ESO/B. Tafreshi (twanight.org)
+
+****
 
 
 
-[Chemical Inhomogeneities Amongst First Population Stars in Globular Clusters: Evidence for He variations](http://adsabs.harvard.edu/abs/2018A%26A...616A.168L) (Lardo et al. 2018).
-
-Click on the cluster to see the its 3D chromosome map:
+[Chemical Inhomogeneities Amongst First Population Stars in Globular Clusters: Evidence for He variations](http://adsabs.harvard.edu/abs/2018A%26A...616A.168L) (Lardo et al. 2018). Click on the cluster to see its 3D chromosome map:
 
 [NGC2808](animations/n2808.html)
 
