@@ -22,7 +22,7 @@ An up-to-date list of my published papers can be found on ADS sorted by [year](h
 
 
 <p class="comment">
-Since 2011 I have been an author on 109 refereed publications, 11 as first author. As of around March 18, 2020, my publications had  ~3190 citations and my *h*-index was 33, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc/metrics)).
+Since 2011 I have been an author on 115 refereed publications, 11 as first author. As of around September 1, 2020, my publications had  ~3526 citations and my *h*-index was 35, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc/metrics)).
 </p>
 
 #### First author papers
@@ -98,6 +98,10 @@ Dalessandro, E. 2011,  *Astronomy and Astrophysics* <A href="http://adsabs.harva
 multiple populations in globular clusters</A> 
 
 #### Second author papers
+1. Lucchesi, R.,**Lardo, C.**,  Primas, F.,  Jablonka, P.,  North, P.,  Battaglia, G.,  Starkenburg, E.,  Hill, V., Irwin, M.,  Francois, P.,  Shetrone, M.,  Tolstoy, E.,  Venn, K.; 2020, *Astronomy and Astrophysics* <A href="https://ui.adsabs.harvard.edu/abs/2020arXiv200111033L/abstract">Homogeneity in the early chemical evolution of the Sextans dwarf Spheroidal galaxy</A> 
+
+
+
 1. Bastian, N.,   **Lardo, C.**,  Usher, C., Kamann, S.,  Larsen, S. S., Cabrera-Ziri, I.,  Chantereau, W.,  Martocchia, S.,  Salaris, M.,  Asa'd, R.,  Hilker, M., 2020, accepted for publication in *Monthly Notices of the Royal Astronomical Society*  <A href="https://ui.adsabs.harvard.edu/abs/2020arXiv200303428B/abstract">Searching for Multiple Populations in the Integrated Light of the Young and Extremely Massive Clusters in the Merger Remnant NGC 7252</A>
 
 
@@ -153,8 +157,26 @@ populations</A>
 
 
 ####Co-authored papers
-1. Saracino, S.,  Martocchia, S.,  Bastian, N.,  Kozhurina-Platais, V.,  Chantereau, W.,  Salaris, M., Cabrera-Ziri, I., Dalessandro, E.,  Kacharov, N., **Lardo, C.**,  Larsen, S. S.,  Platais, I.; 2020, accepted for publication in *Monthly Notices of the Royal Astronomical Society* <A
-href="https://ui.adsabs.harvard.edu/abs/2020arXiv200301780S/abstract">Chromosome maps of young LMC clusters: An additional case of coeval multiple populations</A>
+
+
+
+1. Asa'd, R.,  Kovalev, M.,  Davies, B.,  Ivanov, V. D.,  Rejkuba, M.,  Gonneau, A.,  Hernandez, S., **Lardo, C.**, Bergemann, M.; 2020,
+*The Astrophysical Journal* <A
+href="https://ui.adsabs.harvard.edu/abs/2020arXiv200706583A/abstract"> Analysis of Red-Supergiants in VdBH 222</A>
+
+
+
+1. Cabrera-Ziri, I.,  Speagle, J. S.,  Dalessandro, E.,  Usher, C.,  Bastian, N.,  Salaris, M.,  Martocchia, S., Kozhurina-Platais, V.,  Niederhofer, F.,  **Lardo, C.**,  Larsen, S. S., Saracino, S.;
+2020, *Monthly Notices of the Royal Astronomical Society*<A
+href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.495..375C/abstract"> Searching for globular cluster chemical anomalies on the main sequence of a young massive cluster</A> 
+
+
+1. Theler, R.,  Jablonka, P.,  Lucchesi, R.,**Lardo, C.**,  North, P.,  Irwin, M.,  Battaglia, G.,  Hill, V.,  Tolstoy, E., Venn, K.,  Helmi, A.,  Kaufer, A.,  Primas, F.,  Shetrone, M.; 2020, *Astronomy and Astrophysics* <A href="https://ui.adsabs.harvard.edu/abs/2019arXiv191108627T/abstract"> The chemical evolution of the dwarf Spheroidal galaxy Sextans</A> 
+
+
+1. Saracino, S.,  Martocchia, S.,  Bastian, N.,  Kozhurina-Platais, V.,  Chantereau, W.,  Salaris, M., Cabrera-Ziri, I., Dalessandro, E.,  Kacharov, N., **Lardo, C.**,  Larsen, S. S.,  Platais, I.; 2020, *Monthly Notices of the Royal Astronomical Society* <A
+href="https://ui.adsabs.harvard.edu/abs/2020arXiv200301780S/abstract"> Chromosome maps of young LMC clusters: An additional case of coeval multiple populations</A>
+
 
 1. Martins, F.,  Morin, J.,  Charbonnel, C., **Lardo, C.**,  Chantereau, W.; 2020,  *Astronomy and Astrophysics* <A href="https://ui.adsabs.harvard.edu/abs/2020A%26A...635A..52M/abstract">Impact of a companion and of chromospheric emission on the shape of chromosome maps for globular clusters</A> 
 
@@ -368,7 +390,9 @@ spectrophotometric standard stars survey - I. Preliminary results</A>
 
 
 ### Publications resulting from my participation to Gaia-ESO
-
+1. Worley, C. C.,  Jofre, P.,  Rendle, B.,  Miglio, A.,  Magrini, L.,  Feuillet, D.,  Gavel, A.,  Smiljanic, R.,  Lind, K., Korn, A.,  Gilmore, G.,  Randich, S.,  Hourihane, A.,  Gonneau, A.,  Francois, P.,  Lewis, J.,  Sacco, G., Bragaglia, A.,  Heiter, U.,  Feltzing, S., Bensby, T.,  Irwin, M.,  Gonzalez Solares, E.,  Murphy, D.,  Bayo, A.; Sbordone, L.,  Zwitter, T.,  Lanzafame, A. C.,  Walton, N.,  Zaggia, S.,  Alfaro, E. J.,  Morbidelli, L.,  Sousa, S., Monaco, L.,  Carraro, G., **Lardo, C.**; 2020,
+*Astronomy & Astrophysics* <A
+href="https://ui.adsabs.harvard.edu/abs/2020arXiv200710189W/abstract"> The Gaia-ESO Survey: Spectroscopic-asteroseismic analysis of K2 stars in Gaia-ESO</A>
 
 1.  <P>Smiljanic, R., Franciosini, E., Bragaglia, A., Tautvai&#353;ien&#279;, G., Fu, X., 
 Pancino, E., Adibekyan, V., Sousa, S. G., Randich, S., Montalb&#225;n, J., 
