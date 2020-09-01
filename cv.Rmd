@@ -26,7 +26,7 @@ font-style: italic;
 
 ###Personal infomation
 **Name:**	Carmela Lardo	<br/>
-**Current Address:**	EPFL Laboratory of Astrophysics,<br/>
+**Current Address:**	Geneva University,<br/>
 Observatory of Sauverny,<br/>
 Chemin des Maillettes 51,<br/>
 1290 Versoix, CH<br/>
@@ -47,7 +47,11 @@ Alma Mater Studiorum-University of Bologna, Italy<br/>
 
 ###Employment
 
-**April 2017** - SNSF Ambizione Fellow,<br/>
+**September 2020 - present ** -	Postdoctoral Associate,<br/>
+Geneva Observatory<br/> 
+Observatoire de Sauverny (CH)<br/>
+
+**April 2017 - July 2020** - SNSF Ambizione Fellow,<br/>
 EPFL SB IPHYS LASTRO<br/>
 Observatoire de Sauverny (CH)<br/> 
 
