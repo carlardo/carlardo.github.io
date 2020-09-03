@@ -2,9 +2,9 @@
 title: "CV"
 ---
 
-Get a pdf copy of my CV here (last update Mar, 2020).
+Get a pdf copy of my CV here (last update Sep, 2020).
 
-<a href="cv_mar.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="cv_sep.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
 
 <style>

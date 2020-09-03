@@ -157,6 +157,9 @@ populations</A>
 
 
 ####Co-authored papers
+1. Saracino, S.,  Kamann, S.,  Usher, C.,  Bastian, N.,  Martocchia, S., **Lardo, C.**,  Latour, M.,  Cabrera-Ziri, I., Dreizler, S.,  Giesers, B.,  Husser, T. -O.,  Kacharov, N.,  Salaris, M., 2020, 
+ *Monthly Notices of the Royal Astronomical Society*<A
+href="https://ui.adsabs.harvard.edu/abs/2020arXiv200903320S/abstract"> Leveraging HST with MUSE: I. Sodium abundance variations within the 2 Gyr old cluster NGC 1978</A> 
 
 
 
