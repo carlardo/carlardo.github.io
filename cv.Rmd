@@ -30,7 +30,7 @@ font-style: italic;
 Observatory of Sauverny,<br/>
 Chemin des Maillettes 51,<br/>
 1290 Versoix, CH<br/>
-**email:**	carmela.lardo@epfl.ch<br/>
+**email:**	carmela.lardo@unige.ch<br/>
 **Nationality:**	Italian<br/>
 
 
