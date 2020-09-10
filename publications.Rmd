@@ -157,6 +157,12 @@ populations</A>
 
 
 ####Co-authored papers
+1. Martocchia, S.,  Kamann, S.,  Saracino, S.,  Usher, C.,  Bastian1, N.,  Rejkuba, M.,  Latour, M.,  **Lardo, C.**,  Cabrera-Ziri, I., Dreizler, S.,  Kacharov, N.,  Kozhurina-Platais, V.,  Larsen, S.,  Mancino, S.,  Platais, I.,  Salaris, M., 2020,  *Monthly Notices of the Royal Astronomical Society*<A
+href="https://ui.adsabs.harvard.edu/abs/2020arXiv200910023M/abstract"> Leveraging HST with MUSE: II. Na-abundance variations in intermediate age star clusters</A> 
+
+
+
+
 1. Saracino, S.,  Kamann, S.,  Usher, C.,  Bastian, N.,  Martocchia, S., **Lardo, C.**,  Latour, M.,  Cabrera-Ziri, I., Dreizler, S.,  Giesers, B.,  Husser, T. -O.,  Kacharov, N.,  Salaris, M., 2020, 
  *Monthly Notices of the Royal Astronomical Society*<A
 href="https://ui.adsabs.harvard.edu/abs/2020arXiv200903320S/abstract"> Leveraging HST with MUSE: I. Sodium abundance variations within the 2 Gyr old cluster NGC 1978</A> 
