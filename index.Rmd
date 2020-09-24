@@ -9,9 +9,13 @@ output:
 <img src="images/test.jpg"/>
 Credit: ESO/B. Tafreshi (twanight.org)
 
-I am currently a postdoctoral research associate at the University of Geneva (Geneva Observatory). I have received my Ph.D. in astronomy in 2013 from the University of Bologna (IT; ["Multiple stellar populations in globular clusters with photometry and low resolution spectroscopy")](http://amsdottorato.unibo.it/5204/).
 
 
+I have received the MS degree in Astrophysics and Cosmology at the University of Bologna in 2009 and the Ph.D. in Astronomy from the same university in 2013 (["Multiple stellar populations in globular clusters with photometry and low resolution spectroscopy")](http://amsdottorato.unibo.it/5204/). 
+
+After one year and a half post-doctoral position working on [Gaia-ESO](https://www.gaia-eso.eu/) data  at the Observatory of Bologna, I moved to Liverpool to join the [Astrophysics Research Institute](https://www.astro.ljmu.ac.uk) for a two-year postdoc in extra-galactic spectroscopy (Professor Ben Davies Supervisor). In 2016 I was offered a 4-year post-doctoral position in globular clusters and galaxy formation at the same institute (Professor Nate Bastian Supervisor). Nonetheless, shortly after in the same year I was also awarded an [Ambizione grant](http://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx) at the [Laboratory of Astrophysics of the École polytechnique fédérale de Lausanne](https://www.epfl.ch/labs/lastro/), where I moved in April 2017.
+
+In December 2020, I was appointed to the Department of [Physics and Astronomy at Bologna University](https://fisica-astronomia.unibo.it/it/index.html) as an Assistant Professor (Rita Levi Montalcini grant 2018).
 
 
 

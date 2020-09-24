@@ -85,7 +85,7 @@ The photometric survey *Pristine* has been especially designed to identify EMPs 
 
 
 
-**Pristine has already started to deliver outstanding results with the discovery of a very special object, Pristine 221.8781+9.7844 (Starkenburg et al., 2018). This object is among the ten most metal-poor stars known and it is one out of two outstanding stars that do not show carbon enhancement (the other is SDSS J102915+172927; see Caffau et al. 2011). Its formation was probably triggered by a single primordial supernova event, thus this discovery is crucial to understand star formation at high redshift and the properties of the first supernovae.**
+Pristine has already started to deliver outstanding results with the discovery of a very special object, Pristine 221.8781+9.7844 (Starkenburg et al., 2018). This object is among the ten most metal-poor stars known and it is one out of two outstanding stars that do not show carbon enhancement (the other is SDSS J102915+172927; see Caffau et al. 2011). Its formation was probably triggered by a single primordial supernova event, thus this discovery is crucial to understand star formation at high redshift and the properties of the first supernovae.
 
 
 **IN THE PRESS:**<br/>

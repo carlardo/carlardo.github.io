@@ -22,7 +22,7 @@ An up-to-date list of my published papers can be found on ADS sorted by [year](h
 
 
 <p class="comment">
-Since 2011 I have been an author on 115 refereed publications, 11 as first author. As of around September 1, 2020, my publications had  ~3526 citations and my *h*-index was 35, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc/metrics)).
+Since 2011 I have been an author on 117 refereed publications, 11 as first author. As of around December 4, 2020, my publications had  ~3786 citations and my *h*-index was 36, according to NASA ADS ([click here for metrics](https://ui.adsabs.harvard.edu/search/q=author%3A(%22lardo%2Cc%22)&sort=date%20desc%2C%20bibcode%20desc/metrics)).
 </p>
 
 #### First author papers
@@ -98,11 +98,14 @@ Dalessandro, E. 2011,  *Astronomy and Astrophysics* <A href="http://adsabs.harva
 multiple populations in globular clusters</A> 
 
 #### Second author papers
+1. Pfeffer, J.,  **Lardo, C.**, Bastian, N.,  Saracino, S.,  Kamann, S.; 2021, *Monthly Notices of the Royal Astronomical Society* <A href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.2514P/abstract">The accreted nuclear clusters of the Milky Way</A> 
+
+
 1. Lucchesi, R., **Lardo, C.**,  Primas, F.,  Jablonka, P.,  North, P.,  Battaglia, G.,  Starkenburg, E.,  Hill, V., Irwin, M.,  Francois, P.,  Shetrone, M.,  Tolstoy, E.,  Venn, K.; 2020, *Astronomy and Astrophysics* <A href="https://ui.adsabs.harvard.edu/abs/2020arXiv200111033L/abstract">Homogeneity in the early chemical evolution of the Sextans dwarf Spheroidal galaxy</A> 
 
 
 
-1. Bastian, N.,   **Lardo, C.**,  Usher, C., Kamann, S.,  Larsen, S. S., Cabrera-Ziri, I.,  Chantereau, W.,  Martocchia, S.,  Salaris, M.,  Asa'd, R.,  Hilker, M., 2020, accepted for publication in *Monthly Notices of the Royal Astronomical Society*  <A href="https://ui.adsabs.harvard.edu/abs/2020arXiv200303428B/abstract">Searching for Multiple Populations in the Integrated Light of the Young and Extremely Massive Clusters in the Merger Remnant NGC 7252</A>
+1. Bastian, N.,   **Lardo, C.**,  Usher, C., Kamann, S.,  Larsen, S. S., Cabrera-Ziri, I.,  Chantereau, W.,  Martocchia, S.,  Salaris, M.,  Asa'd, R.,  Hilker, M., 2020, *Monthly Notices of the Royal Astronomical Society*  <A href="https://ui.adsabs.harvard.edu/abs/2020arXiv200303428B/abstract">Searching for Multiple Populations in the Integrated Light of the Young and Extremely Massive Clusters in the Merger Remnant NGC 7252</A>
 
 
 1. <P>Cabrera-Ziri, I., **Lardo, C.**, Mucciarelli, A. 2019, *Monthly Notices of the Royal Astronomical Society*  <A href="https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.4128C/abstract">Constant light element abundances suggest that the extended P1 in NGC 2808 is not a consequence of CNO-cycle nucleosynthesis</A>
@@ -399,6 +402,10 @@ spectrophotometric standard stars survey - I. Preliminary results</A>
 
 
 ### Publications resulting from my participation to Gaia-ESO
+1. Heiter, U.,  Lind, K., Bergemann, M.,  Asplund, M.,  Mikolaitis, S., Barklem, P. S.,  Masseron, T.,  de Laverny, P.,  Magrini, L., Edvardsson, B., Jönsson, H.,  Pickering, J. C.,  Ryde, N., Bayo Arán, A.,  Bensby, T.,  Casey, A. R.,  Feltzing, S.,  Jofré, P., Korn, A. J.,  Pancino, E.,  Damiani, F.,  Lanzafame, A., **Lardo, C.**, Monaco, L., Morbidelli, L.,  Smiljanic, R., Worley, C.,  Zaggia, S.,  Randich, S.,  Gilmore, G. F.; 2021 Accepted for publication in section 12. Atomic, molecular, and nuclear data of *Astronomy and Astrophysics*  <A href="https://ui.adsabs.harvard.edu/abs/2020arXiv201102049H/abstract">Atomic data for the Gaia-ESO Survey</A> 
+
+
+
 1. Worley, C. C.,  Jofre, P.,  Rendle, B.,  Miglio, A.,  Magrini, L.,  Feuillet, D.,  Gavel, A.,  Smiljanic, R.,  Lind, K., Korn, A.,  Gilmore, G.,  Randich, S.,  Hourihane, A.,  Gonneau, A.,  Francois, P.,  Lewis, J.,  Sacco, G., Bragaglia, A.,  Heiter, U.,  Feltzing, S., Bensby, T.,  Irwin, M.,  Gonzalez Solares, E.,  Murphy, D.,  Bayo, A.; Sbordone, L.,  Zwitter, T.,  Lanzafame, A. C.,  Walton, N.,  Zaggia, S.,  Alfaro, E. J.,  Morbidelli, L.,  Sousa, S., Monaco, L.,  Carraro, G., **Lardo, C.**; 2020,
 *Astronomy & Astrophysics* <A
 href="https://ui.adsabs.harvard.edu/abs/2020arXiv200710189W/abstract"> The Gaia-ESO Survey: Spectroscopic-asteroseismic analysis of K2 stars in Gaia-ESO</A>
