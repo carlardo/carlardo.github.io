@@ -2,9 +2,9 @@
 title: "CV"
 ---
 
-Get a pdf copy of my CV here (last update Sep, 2020).
+Get a pdf copy of my CV here (last update Dec, 2020).
 
-<a href="cv_sep.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="cv_dec.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
 
 <style>
@@ -26,11 +26,11 @@ font-style: italic;
 
 ###Personal infomation
 **Name:**	Carmela Lardo	<br/>
-**Current Address:**	Geneva University,<br/>
-Observatory of Sauverny,<br/>
-Chemin des Maillettes 51,<br/>
-1290 Versoix, CH<br/>
-**email:**	carmela.lardo@unige.ch<br/>
+**Current Address:** Depatment of Physics and Astronomy<br/>
+Bologna University<br/>
+via Piero Gobetti 93/2<br/>
+40129 Bologna, IT<br/>
+**email:**	carmela.lardo2@unibo.it<br/>
 **Nationality:**	Italian<br/>
 
 
